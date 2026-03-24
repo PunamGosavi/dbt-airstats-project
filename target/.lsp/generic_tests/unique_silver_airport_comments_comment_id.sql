@@ -1,1 +1,0 @@
-{{ test_unique(column_name="comment_id", model=get_where_subquery(ref('silver_airport_comments'))) }}
