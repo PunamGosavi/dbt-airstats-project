@@ -1,0 +1,1 @@
+{{ test_unique(column_name="runway_id", model=get_where_subquery(ref('silver_runways'))) }}

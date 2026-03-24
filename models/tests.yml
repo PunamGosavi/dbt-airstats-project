@@ -1,0 +1,53 @@
+version: 2
+
+models:
+  - name: src_airports
+    columns:
+      - name: airport_ident
+        tests:
+          - not_null
+          - unique
+
+  - name: src_runways
+    columns:
+      - name: runway_id
+        tests:
+          - not_null
+          - unique
+      - name: airport_ident
+        tests:
+          - not_null
+
+  - name: src_airport_comments
+    columns:
+      - name: comment_id
+        tests:
+          - not_null
+          - unique
+
+  - name: silver_airports
+    columns:
+      - name: airport_ident
+        tests:
+          - not_null
+          - unique
+
+  - name: silver_runways
+    columns:
+      - name: runway_id
+        tests:
+          - not_null
+          - unique
+
+  - name: silver_airport_comments
+    columns:
+      - name: comment_id
+        tests:
+          - not_null
+          - unique
+      - name: member_nickname
+        tests:
+          - not_null
+      - name: comment_body
+        tests:
+          - not_null

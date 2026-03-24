@@ -1,0 +1,2080 @@
+==================== 2026-03-23T23:53:06.384549Z | cdc971fb-b0ee-4c6e-bd58-86853c9b2fdd ====================
+23:53:06.384577 [info ]: Starting dbt LSP server
+23:53:06.384595 [info ]: Connecting to LSP client on port 8000
+23:53:06.384733 [info ]: Successfully connected to LSP client
+23:53:06.384739 [info ]: Creating LSP service...
+23:53:06.413930 [info ]: Creating LSP server...
+23:53:06.413946 [info ]: Starting LSP server...
+23:53:06.435002 [info ]: Started loading project
+23:53:06.435154 [info ]: Finished loading project [  0.00s]
+23:53:42.331630 [info ]: Started loading project
+23:53:42.331813 [info ]: Finished loading project [  0.00s]
+23:54:48.210893 [info ]: Started loading project
+23:54:48.211180 [info ]: Finished loading project [  0.00s]
+23:54:48.603123 [info ]: Waiting for lease on 'target' directory
+23:54:48.715735 [info ]: Started loading project
+23:54:48.716116 [info ]: Finished loading project [  0.00s]
+23:55:33.303705 [info ]: Started loading project
+23:55:33.303893 [info ]: Finished loading project [  0.00s]
+23:56:52.274981 [info ]: Loading profiles.yml
+23:56:52.289467 [info ]: Started loading project
+23:56:52.289785 [info ]: Loading profiles.yml
+23:56:52.393838 [debug]:    Started loading packages
+23:56:52.394162 [debug]:     Loaded [  0.00s] packages
+23:56:52.394608 [info ]: Started parsing
+23:56:52.404246 [info ]: Finished loading project [  0.11s]
+23:56:52.405702 [info ]: Finished parsing [  0.01s]
+23:56:52.405798 [info ]: Cached model count updated: 0 models (estimate)
+23:56:52.405805 [info ]: Cached model count updated: 0 models (accurate)
+23:56:52.405826 [info ]: Started scheduling
+23:56:52.405849 [info ]: Finished scheduling [  0.00s]
+23:56:52.405853 [debug]: Compilation - 0 nodes selected: {}
+23:56:52.405861 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+23:56:52.405869 [info ]: Started scheduling
+23:56:52.405872 [info ]: Finished scheduling [  0.00s]
+23:56:52.453122 [info ]: Started building task graph
+23:56:52.453145 [info ]: Finished building task graph [  0.00s]
+23:56:52.454186 [info ]: Cached model count updated: 0 models (accurate)
+23:57:15.157835 [info ]: Started loading project
+23:57:15.157903 [info ]: Finished loading project [  0.00s]
+23:59:15.373588 [info ]: Started loading project
+23:59:15.373726 [info ]: Finished loading project [  0.00s]
+23:59:15.771039 [info ]: Waiting for lease on 'target' directory
+23:59:15.883272 [info ]: Started loading project
+23:59:15.883603 [info ]: Finished loading project [  0.00s]
+23:59:46.186735 [info ]: Started loading project
+23:59:46.186888 [info ]: Finished loading project [  0.00s]
+00:00:05.768396 [info ]: Started loading project
+00:00:05.768829 [info ]: Finished loading project [  0.00s]
+00:00:36.076616 [info ]: Loading profiles.yml
+00:00:36.088870 [info ]: Started loading project
+00:00:36.089106 [info ]: Loading profiles.yml
+00:00:36.188599 [debug]:    Started loading packages
+00:00:36.188918 [debug]:     Loaded [  0.00s] packages
+00:00:36.189308 [info ]: Started parsing
+00:00:36.198397 [info ]: Finished loading project [  0.11s]
+00:00:36.199612 [info ]: Finished parsing [  0.01s]
+00:00:36.199693 [info ]: Cached model count updated: 0 models (estimate)
+00:00:36.199699 [info ]: Cached model count updated: 0 models (accurate)
+00:00:36.199707 [info ]: Started scheduling
+00:00:36.199720 [info ]: Finished scheduling [  0.00s]
+00:00:36.199724 [debug]: Compilation - 0 nodes selected: {}
+00:00:36.199729 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+00:00:36.199734 [info ]: Started scheduling
+00:00:36.199737 [info ]: Finished scheduling [  0.00s]
+00:00:36.244631 [info ]: Started building task graph
+00:00:36.244653 [info ]: Finished building task graph [  0.00s]
+00:00:36.246009 [info ]: Cached model count updated: 0 models (accurate)
+00:01:35.709941 [info ]: Started loading project
+00:01:35.710088 [info ]: Finished loading project [  0.00s]
+00:01:41.234699 [info ]: Loading profiles.yml
+00:01:41.247739 [info ]: Started loading project
+00:01:41.247970 [info ]: Loading profiles.yml
+00:01:41.345847 [debug]:    Started loading packages
+00:01:41.346155 [debug]:     Loaded [  0.00s] packages
+00:01:41.346539 [info ]: Started parsing
+00:01:41.354979 [info ]: Finished loading project [  0.11s]
+00:01:41.356191 [info ]: Finished parsing [  0.01s]
+00:01:41.356297 [info ]: Cached model count updated: 0 models (estimate)
+00:01:41.356303 [info ]: Cached model count updated: 0 models (accurate)
+00:01:41.356312 [info ]: Started scheduling
+00:01:41.356323 [info ]: Finished scheduling [  0.00s]
+00:01:41.356327 [debug]: Compilation - 0 nodes selected: {}
+00:01:41.356333 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+00:01:41.356338 [info ]: Started scheduling
+00:01:41.356341 [info ]: Finished scheduling [  0.00s]
+00:01:41.399809 [info ]: Started building task graph
+00:01:41.399825 [info ]: Finished building task graph [  0.00s]
+00:01:41.401113 [info ]: Cached model count updated: 0 models (accurate)
+00:03:42.523949 [info ]: Started loading project
+00:03:42.524432 [info ]: Loading profiles.yml
+00:03:42.526633 [info ]: Started loading project
+00:03:42.526821 [info ]: Loading profiles.yml
+00:03:42.526860 [info ]: Finished loading project [  0.00s]
+00:03:42.630229 [debug]:    Started loading packages
+00:03:42.630503 [debug]:     Loaded [  0.00s] packages
+00:03:42.630880 [info ]: Started parsing
+00:03:42.639520 [info ]: Finished loading project [  0.11s]
+00:03:42.639724 [debug]: Finished parsing models/sources.yml [  0.00s]
+00:03:42.640712 [info ]: Finished parsing [  0.01s]
+00:03:42.640805 [info ]: Cached model count updated: 0 models (estimate)
+00:03:42.640811 [info ]: Cached model count updated: 0 models (accurate)
+00:03:42.640818 [info ]: Started scheduling
+00:03:42.640828 [info ]: Finished scheduling [  0.00s]
+00:03:42.640832 [debug]: Compilation - 0 nodes selected: {}
+00:03:42.640837 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+00:03:42.640842 [info ]: Started scheduling
+00:03:42.640845 [info ]: Finished scheduling [  0.00s]
+00:03:42.684256 [info ]: Started building task graph
+00:03:42.684269 [info ]: Finished building task graph [  0.00s]
+00:03:42.685607 [info ]: Cached model count updated: 0 models (accurate)
+00:03:44.330810 [info ]: Started loading project
+00:03:44.331317 [info ]: Loading profiles.yml
+00:03:44.334056 [info ]: Started parsing
+00:03:44.347586 [info ]: Finished loading project [  0.02s]
+00:03:44.348928 [info ]: Finished parsing [  0.01s]
+00:03:44.349731 [info ]: Cached model count updated: 0 models (estimate)
+00:03:44.349741 [info ]: Cached model count updated: 0 models (accurate)
+00:03:44.349756 [info ]: Started scheduling
+00:03:44.349787 [info ]: Finished scheduling [  0.00s]
+00:03:44.349794 [debug]: Compilation - 0 nodes selected: {}
+00:03:44.349809 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+00:03:44.349816 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+00:03:44.406223 [info ]: Started building task graph
+00:03:44.406239 [info ]: Finished building task graph [  0.00s]
+00:03:44.407828 [info ]: Cached model count updated: 0 models (accurate)
+00:04:00.396746 [info ]: Started loading project
+00:04:00.397136 [info ]: Loading profiles.yml
+00:04:00.399183 [info ]: Started parsing
+00:04:00.410643 [info ]: Finished loading project [  0.01s]
+00:04:00.410968 [debug]: Finished parsing models/sources.yml [  0.00s]
+00:04:00.411846 [info ]: Finished parsing [  0.01s]
+00:04:00.412378 [info ]: Cached model count updated: 0 models (estimate)
+00:04:00.412386 [info ]: Cached model count updated: 0 models (accurate)
+00:04:00.412399 [info ]: Started scheduling
+00:04:00.412435 [info ]: Finished scheduling [  0.00s]
+00:04:00.412440 [debug]: Compilation - 0 nodes selected: {}
+00:04:00.412450 [warn ]: dbt1600: The selection criterion '+source:airstats.airstats.airports+ +source:airstats.airstats.airport_comments+ +source:airstats.airstats.runways+' does not match any enabled nodes
+00:04:00.412456 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+00:04:00.467157 [info ]: Started building task graph
+00:04:00.467179 [info ]: Finished building task graph [  0.00s]
+00:04:00.468766 [info ]: Cached model count updated: 0 models (accurate)
+00:04:02.820105 [info ]: Started loading project
+00:04:02.820704 [info ]: Loading profiles.yml
+00:04:02.824867 [info ]: Started parsing
+00:04:02.841481 [info ]: Finished loading project [  0.02s]
+00:04:02.843009 [info ]: Finished parsing [  0.02s]
+00:04:02.843796 [info ]: Cached model count updated: 0 models (estimate)
+00:04:02.843808 [info ]: Cached model count updated: 0 models (accurate)
+00:04:02.843829 [info ]: Started scheduling
+00:04:02.843860 [info ]: Finished scheduling [  0.00s]
+00:04:02.843867 [debug]: Compilation - 0 nodes selected: {}
+00:04:02.843882 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+00:04:02.843889 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+00:04:02.901545 [info ]: Started building task graph
+00:04:02.901558 [info ]: Finished building task graph [  0.00s]
+00:04:02.903035 [info ]: Cached model count updated: 0 models (accurate)
+00:10:11.422030 [info ]: Started loading project
+00:10:11.422549 [info ]: Loading profiles.yml
+00:10:11.424686 [info ]: Started loading project
+00:10:11.424847 [info ]: Loading profiles.yml
+00:10:11.424881 [info ]: Finished loading project [  0.00s]
+00:10:11.528502 [debug]:    Started loading packages
+00:10:11.528789 [debug]:     Loaded [  0.00s] packages
+00:10:11.529176 [info ]: Started parsing
+00:10:11.537755 [info ]: Finished loading project [  0.11s]
+00:10:11.537968 [debug]: Finished parsing models/sources.yml [  0.00s]
+00:10:11.538873 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+00:10:11.539005 [info ]: Finished parsing [  0.01s]
+00:10:11.539094 [info ]: Cached model count updated: 1 models (estimate)
+00:10:11.539100 [info ]: Cached model count updated: 1 models (accurate)
+00:10:11.539110 [info ]: Started scheduling
+00:10:11.539125 [info ]: Finished scheduling [  0.00s]
+00:10:11.539129 [debug]: Compilation - 0 nodes selected: {}
+00:10:11.539134 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+00:10:11.539139 [info ]: Started scheduling
+00:10:11.539143 [info ]: Finished scheduling [  0.00s]
+00:10:11.582732 [info ]: Started building task graph
+00:10:11.582749 [info ]: Finished building task graph [  0.00s]
+00:10:11.584275 [info ]: Cached model count updated: 1 models (accurate)
+00:10:11.805624 [info ]: Waiting for lease on 'target' directory
+00:10:12.016097 [info ]: Started loading project
+00:10:12.016463 [info ]: Loading profiles.yml
+00:10:12.018814 [info ]: Started parsing
+00:10:12.030978 [info ]: Finished loading project [  0.01s]
+00:10:12.031958 [info ]: Finished parsing [  0.01s]
+00:10:12.032508 [info ]: Cached model count updated: 1 models (estimate)
+00:10:12.032517 [info ]: Cached model count updated: 1 models (accurate)
+00:10:12.032529 [info ]: Started scheduling
+00:10:12.032546 [info ]: Finished scheduling [  0.00s]
+00:10:12.032551 [debug]: Compilation - 0 nodes selected: {}
+00:10:12.032559 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+00:10:12.032563 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+00:10:12.086955 [info ]: Started building task graph
+00:10:12.086974 [info ]: Finished building task graph [  0.00s]
+00:10:12.088577 [info ]: Cached model count updated: 1 models (accurate)
+00:10:13.499642 [info ]: Started loading project
+00:10:13.500113 [info ]: Loading profiles.yml
+00:10:13.503705 [info ]: Started parsing
+00:10:13.521189 [info ]: Finished loading project [  0.02s]
+00:10:13.522756 [info ]: Finished parsing [  0.02s]
+00:10:13.523701 [info ]: Cached model count updated: 1 models (estimate)
+00:10:13.523715 [info ]: Cached model count updated: 1 models (accurate)
+00:10:13.523741 [info ]: Started scheduling
+00:10:13.523774 [info ]: Finished scheduling [  0.00s]
+00:10:13.523781 [debug]: Compilation - 0 nodes selected: {}
+00:10:13.523796 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+00:10:13.523802 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+00:10:13.583601 [info ]: Started building task graph
+00:10:13.583616 [info ]: Finished building task graph [  0.00s]
+00:10:13.585143 [info ]: Cached model count updated: 1 models (accurate)
+00:10:14.123905 [info ]: Started loading project
+00:10:14.124400 [info ]: Loading profiles.yml
+00:10:14.127349 [info ]: Started parsing
+00:10:14.141833 [info ]: Finished loading project [  0.02s]
+00:10:14.143270 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+00:10:14.143417 [info ]: Finished parsing [  0.02s]
+00:10:14.143969 [info ]: Cached model count updated: 1 models (estimate)
+00:10:14.143978 [info ]: Cached model count updated: 1 models (accurate)
+00:10:14.143993 [info ]: Started scheduling
+00:10:14.144028 [info ]: Finished scheduling [  0.00s]
+00:10:14.144035 [debug]: Compilation - 1 nodes selected: {"model.airstats.src_airports"}
+00:10:14.144302 [info ]: Started downloading schemas
+00:10:14.958785 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."RAW"."AIRPORTS"
+00:10:16.078733 [warn ]: dbt1014: Failed to download source schema for 'source.airstats.airstats.airports'. Setting 'static_analysis' to off. Skipping analysis for 'model.airstats.src_airports': [Snowflake] 002003 (02000): SQL compilation error:
+Database 'AIRSTATS' does not exist or not authorized.
+00:10:16.141783 [info ]: Started building task graph
+00:10:16.141820 [info ]: Finished building task graph [  0.00s]
+00:10:16.141893 [info ]: Started rendering (1 nodes)
+00:10:16.141907 [info ]: Started model DEV.src_airports
+00:10:16.141916 [debug]: Started rendering model DEV.src_airports
+00:10:16.141942 [info ]: Finished downloading schemas [  2.00s]
+00:10:16.142535 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+00:10:16.142578 [info ]:  Succeeded [-------] model DEV.src_airports (view)
+00:10:16.142588 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+00:10:16.142591 [info ]: Finished rendering [  0.00s] (1 nodes, 0 skipped, 0 errors)
+00:10:16.144723 [info ]: Cached model count updated: 1 models (accurate)
+00:10:17.651531 [info ]: Started loading project
+00:10:17.652094 [info ]: Loading profiles.yml
+00:10:17.656368 [info ]: Started parsing
+00:10:17.671622 [info ]: Finished loading project [  0.02s]
+00:10:17.673288 [info ]: Finished parsing [  0.02s]
+00:10:17.674293 [info ]: Cached model count updated: 1 models (estimate)
+00:10:17.674311 [info ]: Cached model count updated: 1 models (accurate)
+00:10:17.674341 [info ]: Started scheduling
+00:10:17.674387 [info ]: Finished scheduling [  0.00s]
+00:10:17.674397 [debug]: Compilation - 0 nodes selected: {}
+00:10:17.674414 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+00:10:17.674422 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+00:10:17.674850 [warn ]: dbt1014: Failed to download source schema for 'source.airstats.airstats.airports'. Setting 'static_analysis' to off. Skipping analysis for 'model.airstats.src_airports': [Snowflake] 002003 (02000): SQL compilation error:
+Database 'AIRSTATS' does not exist or not authorized.
+00:10:17.732286 [info ]: Started building task graph
+00:10:17.732310 [info ]: Finished building task graph [  0.00s]
+00:10:17.734014 [info ]: Cached model count updated: 1 models (accurate)
+==================== 2026-03-24T00:57:29.241654Z | f0cb8e2e-992d-4d8c-aa8b-cc47a01f7255 ====================
+00:57:29.241686 [info ]: Starting dbt LSP server
+00:57:29.241698 [info ]: Connecting to LSP client on port 8000
+00:57:29.241830 [info ]: Successfully connected to LSP client
+00:57:29.241837 [info ]: Creating LSP service...
+00:57:29.271012 [info ]: Creating LSP server...
+00:57:29.271024 [info ]: Starting LSP server...
+00:57:29.278508 [info ]: Loading profiles.yml
+00:57:29.292341 [info ]: Started loading project
+00:57:29.292513 [info ]: Loading profiles.yml
+00:57:29.384466 [debug]:    Started loading packages
+00:57:29.384784 [debug]:     Loaded [  0.00s] packages
+00:57:29.385285 [info ]: Started parsing
+00:57:29.395605 [info ]: Finished loading project [  0.10s]
+00:57:29.395925 [debug]: Finished parsing models/sources.yml [  0.00s]
+00:57:29.397736 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+00:57:29.397903 [info ]: Finished parsing [  0.01s]
+00:57:29.398134 [info ]: Cached model count updated: 1 models (estimate)
+00:57:29.398153 [info ]: Cached model count updated: 1 models (accurate)
+00:57:29.398199 [info ]: Started scheduling
+00:57:29.398238 [info ]: Finished scheduling [  0.00s]
+00:57:29.398263 [debug]: Compilation - 1 nodes selected: {"model.airstats.src_airports"}
+00:57:29.398337 [info ]: Started scheduling
+00:57:29.398385 [info ]: Finished scheduling [  0.00s]
+00:57:29.398468 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+00:57:29.398894 [info ]: Started downloading schemas
+00:57:30.070555 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."RAW"."AIRPORTS"
+00:57:31.202228 [warn ]: dbt1014: Failed to download source schema for 'source.airstats.airstats.airports'. Setting 'static_analysis' to off. Skipping analysis for 'model.airstats.src_airports': [Snowflake] 002003 (02000): SQL compilation error:
+Database 'AIRSTATS' does not exist or not authorized.
+00:57:31.277029 [info ]: Started building task graph
+00:57:31.277068 [info ]: Finished building task graph [  0.00s]
+00:57:31.277161 [info ]: Started rendering (1 nodes)
+00:57:31.277175 [info ]: Started model DEV.src_airports
+00:57:31.277185 [debug]: Started rendering model DEV.src_airports
+00:57:31.277213 [info ]: Finished downloading schemas [  1.88s]
+00:57:31.277894 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+00:57:31.277938 [info ]:  Succeeded [-------] model DEV.src_airports (view)
+00:57:31.277956 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+00:57:31.277961 [info ]: Finished rendering [  0.00s] (1 nodes, 0 skipped, 0 errors)
+00:57:31.279616 [info ]: Cached model count updated: 1 models (accurate)
+==================== 2026-03-24T01:42:38.809856Z | 33df302c-e3a3-4688-9872-99c3f945d57f ====================
+01:42:38.812629 [info ]: Starting dbt LSP server
+01:42:38.813712 [info ]: Connecting to LSP client on port 8000
+01:42:38.814152 [info ]: Successfully connected to LSP client
+01:42:38.814188 [info ]: Creating LSP service...
+01:42:38.860706 [info ]: Creating LSP server...
+01:42:38.860724 [info ]: Starting LSP server...
+01:42:38.900988 [info ]: Loading profiles.yml
+01:42:38.932878 [info ]: Started loading project
+01:42:38.933868 [info ]: Loading profiles.yml
+01:42:39.039678 [debug]:    Started loading packages
+01:42:39.040854 [debug]:     Loaded [  0.00s] packages
+01:42:39.048796 [info ]: Started parsing
+01:42:39.075899 [info ]: Finished loading project [  0.14s]
+01:42:39.085112 [debug]: Finished parsing models/sources.yml [  0.00s]
+01:42:39.100649 [debug]: Finished parsing models/bronze/src_airports.sql [  0.01s]
+01:42:39.104049 [info ]: Finished parsing [  0.06s]
+01:42:39.105756 [info ]: Cached model count updated: 1 models (estimate)
+01:42:39.105764 [info ]: Cached model count updated: 1 models (accurate)
+01:42:39.106822 [info ]: Started scheduling
+01:42:39.108493 [info ]: Finished scheduling [  0.00s]
+01:42:39.108504 [debug]: Compilation - 1 nodes selected: {"model.airstats.src_airports"}
+01:42:39.108791 [info ]: Started scheduling
+01:42:39.108813 [info ]: Finished scheduling [  0.00s]
+01:42:39.112616 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+01:42:39.117791 [info ]: Started downloading schemas
+01:42:39.666362 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."RAW"."AIRPORTS"
+01:42:39.973065 [info ]: Downloaded AIRSTATS.RAW.airports (schema)
+01:42:40.054288 [info ]: Started building task graph
+01:42:40.056059 [info ]: Finished building task graph [  0.00s]
+01:42:40.061452 [info ]: Started rendering (1 nodes)
+01:42:40.061957 [info ]: Started model DEV.src_airports
+01:42:40.062012 [debug]: Started rendering model DEV.src_airports
+01:42:40.062160 [info ]: Finished downloading schemas [  0.94s]
+01:42:40.067737 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+01:42:40.068272 [debug]: Finished rendering [  0.01s] model DEV.src_airports [success]
+01:42:40.068279 [info ]: Finished rendering [  0.01s] (1 nodes, 0 skipped, 0 errors)
+01:42:40.068288 [info ]: Started analyzing (1 nodes)
+01:42:40.068294 [debug]: Started analyzing model DEV.src_airports
+01:42:40.120337 [info ]:  Succeeded [  0.06s] model DEV.src_airports (view)
+01:42:40.120377 [debug]: Finished analyzing [  0.05s] model DEV.src_airports [success]
+01:42:40.120383 [info ]: Finished analyzing [  0.05s] (1 nodes, 0 skipped, 0 errors)
+01:42:40.125652 [info ]: Cached model count updated: 1 models (accurate)
+01:47:13.194853 [info ]: Started loading project
+01:47:13.195559 [info ]: Loading profiles.yml
+01:47:13.200194 [info ]: Started loading project
+01:47:13.200367 [info ]: Loading profiles.yml
+01:47:13.200397 [info ]: Finished loading project [  0.01s]
+01:47:13.305251 [debug]:    Started loading packages
+01:47:13.305554 [debug]:     Loaded [  0.00s] packages
+01:47:13.306027 [info ]: Started parsing
+01:47:13.315389 [info ]: Finished loading project [  0.12s]
+01:47:13.315769 [debug]: Finished parsing models/sources.yml [  0.00s]
+01:47:13.316193 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+01:47:13.316992 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+01:47:13.317311 [info ]: Finished parsing [  0.01s]
+01:47:13.317401 [info ]: Cached model count updated: 2 models (estimate)
+01:47:13.317407 [info ]: Cached model count updated: 2 models (accurate)
+01:47:13.317416 [info ]: Started scheduling
+01:47:13.317437 [info ]: Finished scheduling [  0.00s]
+01:47:13.317441 [debug]: Compilation - 1 nodes selected: {"model.airstats.src_airports"}
+01:47:13.317447 [info ]: Started scheduling
+01:47:13.317455 [info ]: Finished scheduling [  0.00s]
+01:47:13.317469 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+01:47:13.363863 [info ]: Started building task graph
+01:47:13.363891 [info ]: Finished building task graph [  0.00s]
+01:47:13.363943 [info ]: Started rendering (1 nodes)
+01:47:13.363951 [info ]: Started model DEV.src_airports
+01:47:13.363957 [debug]: Started rendering model DEV.src_airports
+01:47:13.364481 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+01:47:13.364535 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+01:47:13.364541 [info ]: Finished rendering [  0.00s] (1 nodes, 0 skipped, 0 errors)
+01:47:13.364552 [info ]: Started analyzing (1 nodes)
+01:47:13.364555 [debug]: Started analyzing model DEV.src_airports
+01:47:13.368696 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+01:47:13.368705 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+01:47:13.368707 [info ]: Finished analyzing [  0.00s] (1 nodes, 0 skipped, 0 errors)
+01:47:13.371239 [info ]: Cached model count updated: 2 models (accurate)
+01:47:13.824800 [info ]: Started loading project
+01:47:13.825527 [info ]: Loading profiles.yml
+01:47:13.833062 [info ]: Started parsing
+01:47:13.848630 [info ]: Finished loading project [  0.02s]
+01:47:13.850407 [info ]: Finished parsing [  0.02s]
+01:47:13.851421 [info ]: Cached model count updated: 2 models (estimate)
+01:47:13.851433 [info ]: Cached model count updated: 2 models (accurate)
+01:47:13.851458 [info ]: Started scheduling
+01:47:13.851870 [info ]: Finished scheduling [  0.00s]
+01:47:13.851880 [debug]: Compilation - 0 nodes selected: {}
+01:47:13.851897 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:47:13.852683 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:47:13.909577 [info ]: Started building task graph
+01:47:13.909599 [info ]: Finished building task graph [  0.00s]
+01:47:13.911119 [info ]: Cached model count updated: 2 models (accurate)
+01:47:18.631546 [info ]: Started loading project
+01:47:18.632115 [info ]: Loading profiles.yml
+01:47:18.635207 [info ]: Started parsing
+01:47:18.648775 [info ]: Finished loading project [  0.02s]
+01:47:18.650279 [info ]: Finished parsing [  0.02s]
+01:47:18.651203 [info ]: Cached model count updated: 2 models (estimate)
+01:47:18.651215 [info ]: Cached model count updated: 2 models (accurate)
+01:47:18.651241 [info ]: Started scheduling
+01:47:18.651280 [info ]: Finished scheduling [  0.00s]
+01:47:18.651287 [debug]: Compilation - 0 nodes selected: {}
+01:47:18.651300 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:47:18.651306 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:47:18.707719 [info ]: Started building task graph
+01:47:18.707733 [info ]: Finished building task graph [  0.00s]
+01:47:18.710109 [info ]: Cached model count updated: 2 models (accurate)
+01:47:28.856351 [info ]: Started loading project
+01:47:28.856613 [info ]: Loading profiles.yml
+01:47:28.859018 [info ]: Started parsing
+01:47:28.869210 [info ]: Finished loading project [  0.01s]
+01:47:28.870584 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+01:47:28.870739 [info ]: Finished parsing [  0.01s]
+01:47:28.871325 [info ]: Cached model count updated: 2 models (estimate)
+01:47:28.871333 [info ]: Cached model count updated: 2 models (accurate)
+01:47:28.871351 [info ]: Started scheduling
+01:47:28.872400 [info ]: Finished scheduling [  0.00s]
+01:47:28.872411 [debug]: Compilation - 1 nodes selected: {"model.airstats.src_airport_comments"}
+01:47:28.872679 [info ]: Started downloading schemas
+01:47:29.550683 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."RAW"."AIRPORT_COMMENTS"
+01:47:30.005447 [info ]: Downloaded AIRSTATS.RAW.airport_comments (schema)
+01:47:30.084792 [info ]: Started building task graph
+01:47:30.084824 [info ]: Finished building task graph [  0.00s]
+01:47:30.084880 [info ]: Started rendering (1 nodes)
+01:47:30.084889 [info ]: Started model DEV.src_airport_comments
+01:47:30.084894 [debug]: Started rendering model DEV.src_airport_comments
+01:47:30.084917 [info ]: Finished downloading schemas [  1.21s]
+01:47:30.085482 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+01:47:30.085511 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+01:47:30.085517 [info ]: Finished rendering [  0.00s] (1 nodes, 0 skipped, 0 errors)
+01:47:30.085523 [info ]: Started analyzing (1 nodes)
+01:47:30.085527 [debug]: Started analyzing model DEV.src_airport_comments
+01:47:30.086554 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+01:47:30.086563 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+01:47:30.086565 [info ]: Finished analyzing [  0.00s] (1 nodes, 0 skipped, 0 errors)
+01:47:30.088623 [info ]: Cached model count updated: 2 models (accurate)
+01:47:31.909157 [info ]: Started loading project
+01:47:31.909738 [info ]: Loading profiles.yml
+01:47:31.914171 [info ]: Started parsing
+01:47:31.930614 [info ]: Finished loading project [  0.02s]
+01:47:31.932304 [info ]: Finished parsing [  0.02s]
+01:47:31.933230 [info ]: Cached model count updated: 2 models (estimate)
+01:47:31.933244 [info ]: Cached model count updated: 2 models (accurate)
+01:47:31.933272 [info ]: Started scheduling
+01:47:31.933312 [info ]: Finished scheduling [  0.00s]
+01:47:31.933320 [debug]: Compilation - 0 nodes selected: {}
+01:47:31.933334 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:47:31.933342 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:47:31.991799 [info ]: Started building task graph
+01:47:31.991814 [info ]: Finished building task graph [  0.00s]
+01:47:31.993357 [info ]: Cached model count updated: 2 models (accurate)
+01:47:36.740940 [info ]: Loading profiles.yml
+01:47:36.751666 [info ]: Started loading project
+01:47:36.751968 [info ]: Loading profiles.yml
+01:47:36.753493 [info ]: Started loading project
+01:47:36.753603 [info ]: Loading profiles.yml
+01:47:36.753623 [info ]: Finished loading project [  0.00s]
+01:47:36.848930 [debug]:    Started loading packages
+01:47:36.849240 [debug]:     Loaded [  0.00s] packages
+01:47:36.849623 [info ]: Started parsing
+01:47:36.858119 [info ]: Finished loading project [  0.10s]
+01:47:36.858351 [debug]: Finished parsing models/sources.yml [  0.00s]
+01:47:36.858785 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+01:47:36.859459 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+01:47:36.859598 [info ]: Finished parsing [  0.01s]
+01:47:36.859686 [info ]: Cached model count updated: 2 models (estimate)
+01:47:36.859691 [info ]: Cached model count updated: 2 models (accurate)
+01:47:36.859706 [info ]: Started scheduling
+01:47:36.859734 [info ]: Finished scheduling [  0.00s]
+01:47:36.859738 [debug]: Compilation - 2 nodes selected: {"model.airstats.src_airport_comments", "model.airstats.src_airports"}
+01:47:36.859744 [info ]: Started scheduling
+01:47:36.859753 [info ]: Finished scheduling [  0.00s]
+01:47:36.860213 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+01:47:36.860241 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+01:47:36.860531 [info ]: Started downloading schemas
+01:47:37.210817 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."RAW"."AIRPORT_COMMENTS"
+01:47:37.300732 [info ]: Downloaded AIRSTATS.RAW.airport_comments (schema)
+01:47:37.377506 [info ]: Started building task graph
+01:47:37.377546 [info ]: Finished building task graph [  0.00s]
+01:47:37.377603 [info ]: Started rendering (2 nodes)
+01:47:37.377610 [info ]: Started model DEV.src_airports
+01:47:37.377616 [debug]: Started rendering model DEV.src_airports
+01:47:37.377629 [info ]: Started model DEV.src_airport_comments
+01:47:37.377633 [debug]: Started rendering model DEV.src_airport_comments
+01:47:37.377644 [info ]: Finished downloading schemas [  0.52s]
+01:47:37.378224 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+01:47:37.378250 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+01:47:37.378259 [info ]: Started analyzing (2 nodes)
+01:47:37.378264 [debug]: Started analyzing model DEV.src_airport_comments
+01:47:37.378270 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+01:47:37.378285 [debug]: Started analyzing model DEV.src_airports
+01:47:37.378306 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+01:47:37.378312 [info ]: Finished rendering [  0.00s] (2 nodes, 0 skipped, 0 errors)
+01:47:37.379230 [info ]:  Succeeded [-------] model DEV.src_airport_comments (view)
+01:47:37.379238 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+01:47:37.379314 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+01:47:37.379322 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+01:47:37.379324 [info ]: Finished analyzing [  0.00s] (2 nodes, 0 skipped, 0 errors)
+01:47:37.381295 [info ]: Cached model count updated: 2 models (accurate)
+01:49:38.316255 [info ]: Started loading project
+01:49:38.316667 [info ]: Loading profiles.yml
+01:49:38.318595 [info ]: Started loading project
+01:49:38.318715 [info ]: Loading profiles.yml
+01:49:38.318739 [info ]: Finished loading project [  0.00s]
+01:49:38.418633 [debug]:    Started loading packages
+01:49:38.418930 [debug]:     Loaded [  0.00s] packages
+01:49:38.419315 [info ]: Started parsing
+01:49:38.428820 [info ]: Finished loading project [  0.11s]
+01:49:38.429315 [debug]: Finished parsing models/sources.yml [  0.00s]
+01:49:38.430020 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+01:49:38.430267 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+01:49:38.430992 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+01:49:38.431134 [info ]: Finished parsing [  0.01s]
+01:49:38.431229 [info ]: Cached model count updated: 3 models (estimate)
+01:49:38.431235 [info ]: Cached model count updated: 3 models (accurate)
+01:49:38.431245 [info ]: Started scheduling
+01:49:38.431270 [info ]: Finished scheduling [  0.00s]
+01:49:38.431274 [debug]: Compilation - 2 nodes selected: {"model.airstats.src_airport_comments", "model.airstats.src_airports"}
+01:49:38.431280 [info ]: Started scheduling
+01:49:38.431290 [info ]: Finished scheduling [  0.00s]
+01:49:38.431306 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+01:49:38.431319 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+01:49:38.475842 [info ]: Started building task graph
+01:49:38.475876 [info ]: Finished building task graph [  0.00s]
+01:49:38.475935 [info ]: Started rendering (2 nodes)
+01:49:38.475943 [info ]: Started model DEV.src_airports
+01:49:38.475949 [debug]: Started rendering model DEV.src_airports
+01:49:38.475962 [info ]: Started model DEV.src_airport_comments
+01:49:38.475966 [debug]: Started rendering model DEV.src_airport_comments
+01:49:38.476568 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+01:49:38.476594 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+01:49:38.476598 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+01:49:38.476608 [info ]: Started analyzing (2 nodes)
+01:49:38.476612 [debug]: Started analyzing model DEV.src_airports
+01:49:38.476621 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+01:49:38.476624 [info ]: Finished rendering [  0.00s] (2 nodes, 0 skipped, 0 errors)
+01:49:38.476628 [debug]: Started analyzing model DEV.src_airport_comments
+01:49:38.477780 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+01:49:38.477788 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+01:49:38.477876 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+01:49:38.477884 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+01:49:38.477887 [info ]: Finished analyzing [  0.00s] (2 nodes, 0 skipped, 0 errors)
+01:49:38.479390 [info ]: Cached model count updated: 3 models (accurate)
+01:49:38.878839 [info ]: Started loading project
+01:49:38.879255 [info ]: Loading profiles.yml
+01:49:38.881865 [info ]: Started parsing
+01:49:38.894498 [info ]: Finished loading project [  0.02s]
+01:49:38.895576 [info ]: Finished parsing [  0.01s]
+01:49:38.896198 [info ]: Cached model count updated: 3 models (estimate)
+01:49:38.896207 [info ]: Cached model count updated: 3 models (accurate)
+01:49:38.896225 [info ]: Started scheduling
+01:49:38.896251 [info ]: Finished scheduling [  0.00s]
+01:49:38.896257 [debug]: Compilation - 0 nodes selected: {}
+01:49:38.896266 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:49:38.896271 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:49:38.952130 [info ]: Started building task graph
+01:49:38.952148 [info ]: Finished building task graph [  0.00s]
+01:49:38.953654 [info ]: Cached model count updated: 3 models (accurate)
+01:49:40.270956 [info ]: Started loading project
+01:49:40.271406 [info ]: Loading profiles.yml
+01:49:40.275773 [info ]: Started parsing
+01:49:40.293374 [info ]: Finished loading project [  0.02s]
+01:49:40.294998 [info ]: Finished parsing [  0.02s]
+01:49:40.295965 [info ]: Cached model count updated: 3 models (estimate)
+01:49:40.295982 [info ]: Cached model count updated: 3 models (accurate)
+01:49:40.296011 [info ]: Started scheduling
+01:49:40.296053 [info ]: Finished scheduling [  0.00s]
+01:49:40.296062 [debug]: Compilation - 0 nodes selected: {}
+01:49:40.296078 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:49:40.296085 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:49:40.355257 [info ]: Started building task graph
+01:49:40.355269 [info ]: Finished building task graph [  0.00s]
+01:49:40.356834 [info ]: Cached model count updated: 3 models (accurate)
+01:49:49.740018 [info ]: Started loading project
+01:49:49.740404 [info ]: Loading profiles.yml
+01:49:49.742869 [info ]: Started parsing
+01:49:49.753911 [info ]: Finished loading project [  0.01s]
+01:49:49.755256 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+01:49:49.755421 [info ]: Finished parsing [  0.01s]
+01:49:49.755964 [info ]: Cached model count updated: 3 models (estimate)
+01:49:49.755972 [info ]: Cached model count updated: 3 models (accurate)
+01:49:49.755989 [info ]: Started scheduling
+01:49:49.756026 [info ]: Finished scheduling [  0.00s]
+01:49:49.756032 [debug]: Compilation - 1 nodes selected: {"model.airstats.src_runways"}
+01:49:49.756272 [info ]: Started downloading schemas
+01:49:50.338550 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."RAW"."RUNWAYS"
+01:49:50.684806 [info ]: Downloaded AIRSTATS.RAW.runways (schema)
+01:49:50.763574 [info ]: Started building task graph
+01:49:50.763605 [info ]: Finished building task graph [  0.00s]
+01:49:50.763664 [info ]: Started rendering (1 nodes)
+01:49:50.763672 [info ]: Started model DEV.src_runways
+01:49:50.763677 [debug]: Started rendering model DEV.src_runways
+01:49:50.763702 [info ]: Finished downloading schemas [  1.01s]
+01:49:50.764189 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+01:49:50.764241 [info ]: Started analyzing (1 nodes)
+01:49:50.764244 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+01:49:50.764248 [debug]: Started analyzing model DEV.src_runways
+01:49:50.764250 [info ]: Finished rendering [  0.00s] (1 nodes, 0 skipped, 0 errors)
+01:49:50.765299 [info ]:  Succeeded [  0.00s] model DEV.src_runways (view)
+01:49:50.765309 [debug]: Finished analyzing [  0.00s] model DEV.src_runways [success]
+01:49:50.765311 [info ]: Finished analyzing [  0.00s] (1 nodes, 0 skipped, 0 errors)
+01:49:50.767442 [info ]: Cached model count updated: 3 models (accurate)
+01:49:54.845228 [info ]: Started loading project
+01:49:54.845779 [info ]: Loading profiles.yml
+01:49:54.849000 [info ]: Started parsing
+01:49:54.863720 [info ]: Finished loading project [  0.02s]
+01:49:54.865222 [info ]: Finished parsing [  0.02s]
+01:49:54.866093 [info ]: Cached model count updated: 3 models (estimate)
+01:49:54.866106 [info ]: Cached model count updated: 3 models (accurate)
+01:49:54.866131 [info ]: Started scheduling
+01:49:54.866169 [info ]: Finished scheduling [  0.00s]
+01:49:54.866176 [debug]: Compilation - 0 nodes selected: {}
+01:49:54.866189 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:49:54.866198 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:49:54.923430 [info ]: Started building task graph
+01:49:54.923441 [info ]: Finished building task graph [  0.00s]
+01:49:54.925059 [info ]: Cached model count updated: 3 models (accurate)
+01:50:52.190814 [info ]: Started loading project
+01:50:52.191292 [info ]: Loading profiles.yml
+01:50:52.194594 [info ]: Started parsing
+01:50:52.209730 [info ]: Finished loading project [  0.02s]
+01:50:52.211175 [info ]: Finished parsing [  0.02s]
+01:50:52.211985 [info ]: Cached model count updated: 3 models (estimate)
+01:50:52.211998 [info ]: Cached model count updated: 3 models (accurate)
+01:50:52.212021 [info ]: Started scheduling
+01:50:52.212056 [info ]: Finished scheduling [  0.00s]
+01:50:52.212063 [debug]: Compilation - 0 nodes selected: {}
+01:50:52.212077 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:50:52.212084 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:50:52.268563 [info ]: Started building task graph
+01:50:52.268575 [info ]: Finished building task graph [  0.00s]
+01:50:52.270108 [info ]: Cached model count updated: 3 models (accurate)
+01:50:53.769713 [info ]: Started loading project
+01:50:53.770188 [info ]: Loading profiles.yml
+01:50:53.772884 [info ]: Started parsing
+01:50:53.785714 [info ]: Finished loading project [  0.02s]
+01:50:53.787025 [info ]: Finished parsing [  0.01s]
+01:50:53.787812 [info ]: Cached model count updated: 3 models (estimate)
+01:50:53.787824 [info ]: Cached model count updated: 3 models (accurate)
+01:50:53.787848 [info ]: Started scheduling
+01:50:53.787885 [info ]: Finished scheduling [  0.00s]
+01:50:53.787892 [debug]: Compilation - 0 nodes selected: {}
+01:50:53.787904 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:50:53.787912 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:50:53.844266 [info ]: Started building task graph
+01:50:53.844280 [info ]: Finished building task graph [  0.00s]
+01:50:53.845827 [info ]: Cached model count updated: 3 models (accurate)
+01:51:40.988179 [info ]: Started loading project
+01:51:40.988799 [info ]: Loading profiles.yml
+01:51:40.991306 [info ]: Started loading project
+01:51:40.991540 [info ]: Loading profiles.yml
+01:51:40.991573 [info ]: Finished loading project [  0.00s]
+01:51:41.097485 [debug]:    Started loading packages
+01:51:41.097876 [debug]:     Loaded [  0.00s] packages
+01:51:41.098264 [info ]: Started parsing
+01:51:41.107099 [info ]: Finished loading project [  0.12s]
+01:51:41.107333 [debug]: Finished parsing models/sources.yml [  0.00s]
+01:51:41.107781 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+01:51:41.107921 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+01:51:41.108149 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+01:51:41.108928 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+01:51:41.109054 [info ]: Finished parsing [  0.01s]
+01:51:41.109156 [info ]: Cached model count updated: 4 models (estimate)
+01:51:41.109162 [info ]: Cached model count updated: 4 models (accurate)
+01:51:41.109173 [info ]: Started scheduling
+01:51:41.109200 [info ]: Finished scheduling [  0.00s]
+01:51:41.109204 [debug]: Compilation - 3 nodes selected: {"model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways"}
+01:51:41.109210 [info ]: Started scheduling
+01:51:41.109221 [info ]: Finished scheduling [  0.00s]
+01:51:41.109238 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+01:51:41.109250 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+01:51:41.109259 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+01:51:41.109448 [info ]: Started downloading schemas
+01:51:41.699019 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."RAW"."RUNWAYS"
+01:51:42.037653 [info ]: Downloaded AIRSTATS.RAW.runways (schema)
+01:51:42.118062 [info ]: Started building task graph
+01:51:42.118105 [info ]: Finished building task graph [  0.00s]
+01:51:42.118164 [info ]: Started rendering (3 nodes)
+01:51:42.118172 [info ]: Started model DEV.src_runways
+01:51:42.118178 [debug]: Started rendering model DEV.src_runways
+01:51:42.118190 [info ]: Started model DEV.src_airports
+01:51:42.118194 [debug]: Started rendering model DEV.src_airports
+01:51:42.118198 [info ]: Started model DEV.src_airport_comments
+01:51:42.118200 [debug]: Started rendering model DEV.src_airport_comments
+01:51:42.118204 [info ]: Finished downloading schemas [  1.01s]
+01:51:42.118920 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+01:51:42.118928 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+01:51:42.118921 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+01:51:42.118951 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+01:51:42.118963 [info ]: Started analyzing (3 nodes)
+01:51:42.118967 [debug]: Started analyzing model DEV.src_airports
+01:51:42.118975 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+01:51:42.118980 [debug]: Started analyzing model DEV.src_airport_comments
+01:51:42.118985 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+01:51:42.118987 [info ]: Finished rendering [  0.00s] (3 nodes, 0 skipped, 0 errors)
+01:51:42.118990 [debug]: Started analyzing model DEV.src_runways
+01:51:42.120145 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+01:51:42.120156 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+01:51:42.120223 [info ]:  Succeeded [  0.00s] model DEV.src_runways (view)
+01:51:42.120230 [debug]: Finished analyzing [  0.00s] model DEV.src_runways [success]
+01:51:42.120425 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+01:51:42.120434 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+01:51:42.120437 [info ]: Finished analyzing [  0.00s] (3 nodes, 0 skipped, 0 errors)
+01:51:42.122723 [info ]: Cached model count updated: 4 models (accurate)
+01:51:42.913596 [info ]: Started loading project
+01:51:42.914163 [info ]: Loading profiles.yml
+01:51:42.918709 [info ]: Started parsing
+01:51:42.935776 [info ]: Finished loading project [  0.02s]
+01:51:42.937288 [info ]: Finished parsing [  0.02s]
+01:51:42.938160 [info ]: Cached model count updated: 4 models (estimate)
+01:51:42.938172 [info ]: Cached model count updated: 4 models (accurate)
+01:51:42.938198 [info ]: Started scheduling
+01:51:42.938234 [info ]: Finished scheduling [  0.00s]
+01:51:42.938241 [debug]: Compilation - 0 nodes selected: {}
+01:51:42.938256 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:51:42.938263 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:51:42.996786 [info ]: Started building task graph
+01:51:42.996797 [info ]: Finished building task graph [  0.00s]
+01:51:42.998235 [info ]: Cached model count updated: 4 models (accurate)
+01:53:33.122515 [info ]: Started loading project
+01:53:33.122773 [info ]: Loading profiles.yml
+01:53:33.124701 [info ]: Started parsing
+01:53:33.134859 [info ]: Finished loading project [  0.01s]
+01:53:33.136591 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+01:53:33.136755 [info ]: Finished parsing [  0.01s]
+01:53:33.137351 [info ]: Cached model count updated: 4 models (estimate)
+01:53:33.137361 [info ]: Cached model count updated: 4 models (accurate)
+01:53:33.137378 [info ]: Started scheduling
+01:53:33.137420 [info ]: Finished scheduling [  0.00s]
+01:53:33.137427 [debug]: Compilation - 1 nodes selected: {"model.airstats.silver_airports"}
+01:53:33.190654 [info ]: Started building task graph
+01:53:33.190680 [info ]: Finished building task graph [  0.00s]
+01:53:33.190730 [info ]: Started rendering (1 nodes)
+01:53:33.190738 [info ]: Started model DEV.silver_airports
+01:53:33.190745 [debug]: Started rendering model DEV.silver_airports
+01:53:33.191519 [debug]: Compiled SQL for node model.airstats.silver_airports at target/.lsp/compiled/models/silver/silver_airports.sql
+01:53:33.191548 [info ]: Started analyzing (1 nodes)
+01:53:33.191548 [debug]: Finished rendering [  0.00s] model DEV.silver_airports [success]
+01:53:33.191553 [info ]: Finished rendering [  0.00s] (1 nodes, 0 skipped, 0 errors)
+01:53:33.191552 [debug]: Started analyzing model DEV.silver_airports
+01:53:33.192114 [info ]:  Succeeded [-------] model DEV.silver_airports (view)
+01:53:33.192123 [debug]: Finished analyzing [  0.00s] model DEV.silver_airports [success]
+01:53:33.192126 [info ]: Finished analyzing [  0.00s] (1 nodes, 0 skipped, 0 errors)
+01:53:33.193839 [info ]: Cached model count updated: 4 models (accurate)
+01:53:39.943938 [info ]: Started loading project
+01:53:39.944434 [info ]: Loading profiles.yml
+01:53:39.947793 [info ]: Started parsing
+01:53:39.961898 [info ]: Finished loading project [  0.02s]
+01:53:39.963333 [info ]: Finished parsing [  0.02s]
+01:53:39.964171 [info ]: Cached model count updated: 4 models (estimate)
+01:53:39.964184 [info ]: Cached model count updated: 4 models (accurate)
+01:53:39.964210 [info ]: Started scheduling
+01:53:39.964250 [info ]: Finished scheduling [  0.00s]
+01:53:39.964256 [debug]: Compilation - 0 nodes selected: {}
+01:53:39.964268 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:53:39.964275 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:53:40.022018 [info ]: Started building task graph
+01:53:40.022037 [info ]: Finished building task graph [  0.00s]
+01:53:40.023730 [info ]: Cached model count updated: 4 models (accurate)
+01:59:51.629363 [info ]: Started loading project
+01:59:51.629686 [info ]: Loading profiles.yml
+01:59:51.631606 [info ]: Started loading project
+01:59:51.631806 [info ]: Loading profiles.yml
+01:59:51.631827 [info ]: Finished loading project [  0.00s]
+01:59:51.734714 [debug]:    Started loading packages
+01:59:51.735201 [debug]:     Loaded [  0.00s] packages
+01:59:51.735837 [info ]: Started parsing
+01:59:51.746755 [info ]: Finished loading project [  0.12s]
+01:59:51.747156 [debug]: Finished parsing models/sources.yml [  0.00s]
+01:59:51.747829 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+01:59:51.748137 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+01:59:51.748378 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+01:59:51.748622 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+01:59:51.749587 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+01:59:51.749741 [info ]: Finished parsing [  0.01s]
+01:59:51.749859 [info ]: Cached model count updated: 5 models (estimate)
+01:59:51.749866 [info ]: Cached model count updated: 5 models (accurate)
+01:59:51.749878 [info ]: Started scheduling
+01:59:51.749913 [info ]: Finished scheduling [  0.00s]
+01:59:51.749918 [debug]: Compilation - 4 nodes selected: {"model.airstats.silver_airports", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways"}
+01:59:51.749925 [info ]: Started scheduling
+01:59:51.749939 [info ]: Finished scheduling [  0.00s]
+01:59:51.749958 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+01:59:51.749977 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+01:59:51.749984 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+01:59:51.800112 [info ]: Started building task graph
+01:59:51.800160 [info ]: Finished building task graph [  0.00s]
+01:59:51.800244 [info ]: Started rendering (4 nodes)
+01:59:51.800254 [info ]: Started model DEV.src_runways
+01:59:51.800260 [debug]: Started rendering model DEV.src_runways
+01:59:51.800273 [info ]: Started model DEV.src_airport_comments
+01:59:51.800277 [debug]: Started rendering model DEV.src_airport_comments
+01:59:51.800282 [info ]: Started model DEV.src_airports
+01:59:51.800285 [debug]: Started rendering model DEV.src_airports
+01:59:51.801166 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+01:59:51.801179 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+01:59:51.801194 [info ]: Started analyzing (4 nodes)
+01:59:51.801195 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+01:59:51.801197 [debug]: Started analyzing model DEV.src_airport_comments
+01:59:51.801205 [debug]: Started analyzing model DEV.src_airports
+01:59:51.801208 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+01:59:51.801210 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+01:59:51.801215 [debug]: Started analyzing model DEV.src_runways
+01:59:51.801207 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+01:59:51.802530 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+01:59:51.802541 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+01:59:51.802795 [info ]:  Succeeded [  0.00s] model DEV.src_runways (view)
+01:59:51.802804 [debug]: Finished analyzing [  0.00s] model DEV.src_runways [success]
+01:59:51.802905 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+01:59:51.802912 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+01:59:51.802920 [info ]: Started model DEV.silver_airports
+01:59:51.802925 [debug]: Started rendering model DEV.silver_airports
+01:59:51.803293 [debug]: Compiled SQL for node model.airstats.silver_airports at target/.lsp/compiled/models/silver/silver_airports.sql
+01:59:51.803309 [debug]: Started analyzing model DEV.silver_airports
+01:59:51.803310 [debug]: Finished rendering [  0.00s] model DEV.silver_airports [success]
+01:59:51.803314 [info ]: Finished rendering [  0.00s] (4 nodes, 0 skipped, 0 errors)
+01:59:51.803660 [info ]:  Succeeded [-------] model DEV.silver_airports (view)
+01:59:51.803665 [debug]: Finished analyzing [  0.00s] model DEV.silver_airports [success]
+01:59:51.803668 [info ]: Finished analyzing [  0.00s] (4 nodes, 0 skipped, 0 errors)
+01:59:51.805383 [info ]: Cached model count updated: 5 models (accurate)
+01:59:52.519592 [info ]: Started loading project
+01:59:52.520206 [info ]: Loading profiles.yml
+01:59:52.524659 [info ]: Started parsing
+01:59:52.543041 [info ]: Finished loading project [  0.02s]
+01:59:52.544819 [info ]: Finished parsing [  0.02s]
+01:59:52.545869 [info ]: Cached model count updated: 5 models (estimate)
+01:59:52.545883 [info ]: Cached model count updated: 5 models (accurate)
+01:59:52.545914 [info ]: Started scheduling
+01:59:52.545960 [info ]: Finished scheduling [  0.00s]
+01:59:52.545969 [debug]: Compilation - 0 nodes selected: {}
+01:59:52.545984 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:59:52.545993 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:59:52.605012 [info ]: Started building task graph
+01:59:52.605031 [info ]: Finished building task graph [  0.00s]
+01:59:52.606639 [info ]: Cached model count updated: 5 models (accurate)
+01:59:53.626698 [info ]: Started loading project
+01:59:53.627163 [info ]: Loading profiles.yml
+01:59:53.630055 [info ]: Started parsing
+01:59:53.642376 [info ]: Finished loading project [  0.02s]
+01:59:53.643450 [info ]: Finished parsing [  0.01s]
+01:59:53.644138 [info ]: Cached model count updated: 5 models (estimate)
+01:59:53.644148 [info ]: Cached model count updated: 5 models (accurate)
+01:59:53.644165 [info ]: Started scheduling
+01:59:53.644191 [info ]: Finished scheduling [  0.00s]
+01:59:53.644197 [debug]: Compilation - 0 nodes selected: {}
+01:59:53.644205 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+01:59:53.644211 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+01:59:53.700894 [info ]: Started building task graph
+01:59:53.700916 [info ]: Finished building task graph [  0.00s]
+01:59:53.702880 [info ]: Cached model count updated: 5 models (accurate)
+02:00:08.031524 [info ]: Started loading project
+02:00:08.031799 [info ]: Loading profiles.yml
+02:00:08.033676 [info ]: Started parsing
+02:00:08.044416 [info ]: Finished loading project [  0.01s]
+02:00:08.045666 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:00:08.045833 [info ]: Finished parsing [  0.01s]
+02:00:08.046393 [info ]: Cached model count updated: 5 models (estimate)
+02:00:08.046401 [info ]: Cached model count updated: 5 models (accurate)
+02:00:08.046419 [info ]: Started scheduling
+02:00:08.046457 [info ]: Finished scheduling [  0.00s]
+02:00:08.046463 [debug]: Compilation - 1 nodes selected: {"model.airstats.silver_runways"}
+02:00:08.101322 [info ]: Started building task graph
+02:00:08.101351 [info ]: Finished building task graph [  0.00s]
+02:00:08.101399 [info ]: Started rendering (1 nodes)
+02:00:08.101407 [info ]: Started model DEV.silver_runways
+02:00:08.101413 [debug]: Started rendering model DEV.silver_runways
+02:00:08.101963 [debug]: Compiled SQL for node model.airstats.silver_runways at target/.lsp/compiled/models/silver/silver_runways.sql
+02:00:08.101996 [debug]: Finished rendering [  0.00s] model DEV.silver_runways [success]
+02:00:08.102002 [info ]: Finished rendering [  0.00s] (1 nodes, 0 skipped, 0 errors)
+02:00:08.102011 [info ]: Started analyzing (1 nodes)
+02:00:08.102014 [debug]: Started analyzing model DEV.silver_runways
+02:00:08.126897 [info ]:  Succeeded [  0.02s] model DEV.silver_runways (view)
+02:00:08.126912 [debug]: Finished analyzing [  0.02s] model DEV.silver_runways [success]
+02:00:08.126915 [info ]: Finished analyzing [  0.02s] (1 nodes, 0 skipped, 0 errors)
+02:00:08.128515 [info ]: Cached model count updated: 5 models (accurate)
+02:00:14.277341 [info ]: Started loading project
+02:00:14.277845 [info ]: Loading profiles.yml
+02:00:14.281108 [info ]: Started parsing
+02:00:14.294682 [info ]: Finished loading project [  0.02s]
+02:00:14.296126 [info ]: Finished parsing [  0.02s]
+02:00:14.297011 [info ]: Cached model count updated: 5 models (estimate)
+02:00:14.297024 [info ]: Cached model count updated: 5 models (accurate)
+02:00:14.297053 [info ]: Started scheduling
+02:00:14.297092 [info ]: Finished scheduling [  0.00s]
+02:00:14.297100 [debug]: Compilation - 0 nodes selected: {}
+02:00:14.297112 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:00:14.297120 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:00:14.355542 [info ]: Started building task graph
+02:00:14.355566 [info ]: Finished building task graph [  0.00s]
+02:00:14.357272 [info ]: Cached model count updated: 5 models (accurate)
+02:00:36.280731 [info ]: Started loading project
+02:00:36.281351 [info ]: Loading profiles.yml
+02:00:36.283806 [info ]: Started loading project
+02:00:36.283986 [info ]: Loading profiles.yml
+02:00:36.284023 [info ]: Finished loading project [  0.00s]
+02:00:36.401063 [debug]:    Started loading packages
+02:00:36.401418 [debug]:     Loaded [  0.00s] packages
+02:00:36.401807 [info ]: Started parsing
+02:00:36.410759 [info ]: Finished loading project [  0.13s]
+02:00:36.410976 [debug]: Finished parsing models/sources.yml [  0.00s]
+02:00:36.411414 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:00:36.411621 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:00:36.411832 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:00:36.411970 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:00:36.412110 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:00:36.413113 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:00:36.413259 [info ]: Finished parsing [  0.01s]
+02:00:36.413416 [info ]: Cached model count updated: 6 models (estimate)
+02:00:36.413421 [info ]: Cached model count updated: 6 models (accurate)
+02:00:36.413432 [info ]: Started scheduling
+02:00:36.413465 [info ]: Finished scheduling [  0.00s]
+02:00:36.413469 [debug]: Compilation - 5 nodes selected: {"model.airstats.silver_airports", "model.airstats.silver_runways", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways"}
+02:00:36.413475 [info ]: Started scheduling
+02:00:36.413490 [info ]: Finished scheduling [  0.00s]
+02:00:36.413509 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+02:00:36.413528 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+02:00:36.413535 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+02:00:36.457217 [info ]: Started building task graph
+02:00:36.457265 [info ]: Finished building task graph [  0.00s]
+02:00:36.457328 [info ]: Started rendering (5 nodes)
+02:00:36.457335 [info ]: Started model DEV.src_airport_comments
+02:00:36.457342 [debug]: Started rendering model DEV.src_airport_comments
+02:00:36.457354 [info ]: Started model DEV.src_runways
+02:00:36.457357 [debug]: Started rendering model DEV.src_runways
+02:00:36.457362 [info ]: Started model DEV.src_airports
+02:00:36.457365 [debug]: Started rendering model DEV.src_airports
+02:00:36.457951 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+02:00:36.457975 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+02:00:36.457984 [info ]: Started analyzing (5 nodes)
+02:00:36.457987 [debug]: Started analyzing model DEV.src_runways
+02:00:36.457996 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+02:00:36.458011 [debug]: Started analyzing model DEV.src_airports
+02:00:36.458012 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+02:00:36.458039 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+02:00:36.458049 [debug]: Started analyzing model DEV.src_airport_comments
+02:00:36.458040 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+02:00:36.459121 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+02:00:36.459130 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+02:00:36.459196 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+02:00:36.459203 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+02:00:36.459210 [info ]: Started model DEV.silver_airports
+02:00:36.459214 [debug]: Started rendering model DEV.silver_airports
+02:00:36.459247 [info ]:  Succeeded [  0.00s] model DEV.src_runways (view)
+02:00:36.459255 [debug]: Finished analyzing [  0.00s] model DEV.src_runways [success]
+02:00:36.459262 [info ]: Started model DEV.silver_runways
+02:00:36.459269 [debug]: Started rendering model DEV.silver_runways
+02:00:36.459592 [debug]: Compiled SQL for node model.airstats.silver_airports at target/.lsp/compiled/models/silver/silver_airports.sql
+02:00:36.459609 [debug]: Started analyzing model DEV.silver_airports
+02:00:36.459616 [debug]: Finished rendering [  0.00s] model DEV.silver_airports [success]
+02:00:36.459633 [debug]: Compiled SQL for node model.airstats.silver_runways at target/.lsp/compiled/models/silver/silver_runways.sql
+02:00:36.459645 [debug]: Started analyzing model DEV.silver_runways
+02:00:36.459647 [debug]: Finished rendering [  0.00s] model DEV.silver_runways [success]
+02:00:36.459650 [info ]: Finished rendering [  0.00s] (5 nodes, 0 skipped, 0 errors)
+02:00:36.459993 [info ]:  Succeeded [-------] model DEV.silver_airports (view)
+02:00:36.460000 [debug]: Finished analyzing [  0.00s] model DEV.silver_airports [success]
+02:00:36.460389 [info ]:  Succeeded [-------] model DEV.silver_runways (view)
+02:00:36.460395 [debug]: Finished analyzing [  0.00s] model DEV.silver_runways [success]
+02:00:36.460397 [info ]: Finished analyzing [  0.00s] (5 nodes, 0 skipped, 0 errors)
+02:00:36.462075 [info ]: Cached model count updated: 6 models (accurate)
+02:00:37.180443 [info ]: Started loading project
+02:00:37.181143 [info ]: Loading profiles.yml
+02:00:37.186583 [info ]: Started parsing
+02:00:37.203342 [info ]: Finished loading project [  0.02s]
+02:00:37.204975 [info ]: Finished parsing [  0.02s]
+02:00:37.205941 [info ]: Cached model count updated: 6 models (estimate)
+02:00:37.205955 [info ]: Cached model count updated: 6 models (accurate)
+02:00:37.205984 [info ]: Started scheduling
+02:00:37.206024 [info ]: Finished scheduling [  0.00s]
+02:00:37.206031 [debug]: Compilation - 0 nodes selected: {}
+02:00:37.206046 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:00:37.206053 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:00:37.264499 [info ]: Started building task graph
+02:00:37.264518 [info ]: Finished building task graph [  0.00s]
+02:00:37.266071 [info ]: Cached model count updated: 6 models (accurate)
+02:00:38.286974 [info ]: Started loading project
+02:00:38.287387 [info ]: Loading profiles.yml
+02:00:38.290548 [info ]: Started parsing
+02:00:38.303876 [info ]: Finished loading project [  0.02s]
+02:00:38.305234 [info ]: Finished parsing [  0.01s]
+02:00:38.306050 [info ]: Cached model count updated: 6 models (estimate)
+02:00:38.306062 [info ]: Cached model count updated: 6 models (accurate)
+02:00:38.306084 [info ]: Started scheduling
+02:00:38.306111 [info ]: Finished scheduling [  0.00s]
+02:00:38.306118 [debug]: Compilation - 0 nodes selected: {}
+02:00:38.306128 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:00:38.306135 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:00:38.365286 [info ]: Started building task graph
+02:00:38.365305 [info ]: Finished building task graph [  0.00s]
+02:00:38.366987 [info ]: Cached model count updated: 6 models (accurate)
+02:00:46.693365 [info ]: Started loading project
+02:00:46.693697 [info ]: Loading profiles.yml
+02:00:46.695738 [info ]: Started parsing
+02:00:46.706397 [info ]: Finished loading project [  0.01s]
+02:00:46.709673 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:00:46.712278 [info ]: Finished parsing [  0.02s]
+02:00:46.712831 [info ]: Cached model count updated: 6 models (estimate)
+02:00:46.712839 [info ]: Cached model count updated: 6 models (accurate)
+02:00:46.712857 [info ]: Started scheduling
+02:00:46.712895 [info ]: Finished scheduling [  0.00s]
+02:00:46.712900 [debug]: Compilation - 1 nodes selected: {"model.airstats.silver_airport_comments"}
+02:00:46.713657 [debug]:    Started downloading relations (1 items)
+02:00:47.636915 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:00:48.023816 [debug]:   Finished [  1.31s] downloading relations (1 items)
+02:00:48.023883 [info ]: Started downloading schemas
+02:00:48.875113 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:00:50.034185 [info ]: Finished downloading schemas [  2.01s]
+02:00:50.041011 [info ]: Cached model count updated: 6 models (accurate)
+02:00:50.043389 [info ]: Waiting for lease on 'target' directory
+02:00:50.255200 [info ]: Started loading project
+02:00:50.255807 [info ]: Loading profiles.yml
+02:00:50.260514 [info ]: Started parsing
+02:00:50.279088 [info ]: Finished loading project [  0.02s]
+02:00:50.281102 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:00:50.282250 [info ]: Finished parsing [  0.02s]
+02:00:50.283235 [info ]: Cached model count updated: 6 models (estimate)
+02:00:50.283248 [info ]: Cached model count updated: 6 models (accurate)
+02:00:50.283279 [info ]: Started scheduling
+02:00:50.283350 [info ]: Finished scheduling [  0.00s]
+02:00:50.283359 [debug]: Compilation - 1 nodes selected: {"model.airstats.silver_airport_comments"}
+02:00:50.283752 [debug]:    Started downloading relations (1 items)
+02:00:50.831639 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:00:51.106217 [debug]:   Finished [  0.82s] downloading relations (1 items)
+02:00:51.106288 [info ]: Started downloading schemas
+02:00:51.615767 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:00:52.765499 [info ]: Finished downloading schemas [  1.66s]
+02:00:52.843315 [info ]: Started building task graph
+02:00:52.843348 [info ]: Finished building task graph [  0.00s]
+02:00:52.843404 [info ]: Started rendering (1 nodes)
+02:00:52.843412 [info ]: Started model DEV.silver_airport_comments
+02:00:52.843417 [debug]: Started rendering model DEV.silver_airport_comments
+02:00:52.852232 [debug]: Compiled SQL for node model.airstats.silver_airport_comments at target/.lsp/compiled/models/silver/silver_airport_comments.sql
+02:00:52.852266 [debug]: Finished rendering [  0.01s] model DEV.silver_airport_comments [success]
+02:00:52.852272 [info ]: Finished rendering [  0.01s] (1 nodes, 0 skipped, 0 errors)
+02:00:52.852279 [info ]: Started analyzing (1 nodes)
+02:00:52.852284 [debug]: Started analyzing model DEV.silver_airport_comments
+02:00:52.861917 [info ]:  Succeeded [  0.02s] model DEV.silver_airport_comments (incremental)
+02:00:52.861933 [debug]: Finished analyzing [  0.01s] model DEV.silver_airport_comments [success]
+02:00:52.861937 [info ]: Finished analyzing [  0.01s] (1 nodes, 0 skipped, 0 errors)
+02:00:52.864159 [info ]: Cached model count updated: 6 models (accurate)
+02:10:14.970106 [info ]: Started loading project
+02:10:14.970707 [info ]: Loading profiles.yml
+02:10:14.973070 [info ]: Started loading project
+02:10:14.973271 [info ]: Loading profiles.yml
+02:10:14.973300 [info ]: Finished loading project [  0.00s]
+02:10:15.068380 [debug]:    Started loading packages
+02:10:15.068769 [debug]:     Loaded [  0.00s] packages
+02:10:15.069181 [info ]: Started parsing
+02:10:15.077848 [info ]: Finished loading project [  0.10s]
+02:10:15.078137 [debug]: Finished parsing models/sources.yml [  0.00s]
+02:10:15.079946 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:10:15.080298 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:10:15.080438 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:10:15.080599 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:10:15.080812 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:10:15.080915 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:10:15.081745 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:10:15.082264 [info ]: Finished parsing [  0.01s]
+02:10:15.082374 [info ]: Cached model count updated: 6 models (estimate)
+02:10:15.082381 [info ]: Cached model count updated: 6 models (accurate)
+02:10:15.082394 [info ]: Started scheduling
+02:10:15.082591 [info ]: Finished scheduling [  0.00s]
+02:10:15.082596 [debug]: Compilation - 7 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.silver_airports", "model.airstats.silver_runways", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways", "snapshot.airstats.scd_silver_airports"}
+02:10:15.082604 [info ]: Started scheduling
+02:10:15.082631 [info ]: Finished scheduling [  0.00s]
+02:10:15.082652 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_airports") and interval: None
+02:10:15.082663 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+02:10:15.082674 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+02:10:15.082681 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+02:10:15.082919 [debug]:    Started downloading relations (1 items)
+02:10:15.809183 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:10:16.234336 [debug]:   Finished [  1.15s] downloading relations (1 items)
+02:10:16.234394 [info ]: Started downloading schemas
+02:10:16.606040 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."SNAPSHOTS"."SCD_SILVER_AIRPORTS"
+02:10:16.606945 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:10:17.730635 [info ]: Finished downloading schemas [  1.50s]
+02:10:17.741464 [info ]: Waiting for lease on 'target' directory
+02:10:18.057596 [info ]: Started loading project
+02:10:18.058106 [info ]: Loading profiles.yml
+02:10:18.162416 [debug]:    Started loading packages
+02:10:18.162822 [debug]:     Loaded [  0.00s] packages
+02:10:18.163269 [info ]: Started parsing
+02:10:18.172077 [info ]: Finished loading project [  0.11s]
+02:10:18.172289 [debug]: Finished parsing models/sources.yml [  0.00s]
+02:10:18.172897 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:10:18.173305 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:10:18.173445 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:10:18.173573 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:10:18.173803 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:10:18.173910 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:10:18.174695 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:10:18.175243 [info ]: Finished parsing [  0.01s]
+02:10:18.175356 [info ]: Cached model count updated: 6 models (estimate)
+02:10:18.175362 [info ]: Cached model count updated: 6 models (accurate)
+02:10:18.175376 [info ]: Started scheduling
+02:10:18.175423 [info ]: Finished scheduling [  0.00s]
+02:10:18.175430 [debug]: Compilation - 7 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.silver_airports", "model.airstats.silver_runways", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways", "snapshot.airstats.scd_silver_airports"}
+02:10:18.175436 [info ]: Started scheduling
+02:10:18.175486 [info ]: Finished scheduling [  0.00s]
+02:10:18.175510 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_airports") and interval: None
+02:10:18.175518 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+02:10:18.175527 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+02:10:18.175535 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+02:10:18.175757 [debug]:    Started downloading relations (1 items)
+02:10:18.534650 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:10:18.646567 [debug]:   Finished [  0.47s] downloading relations (1 items)
+02:10:18.646633 [info ]: Started downloading schemas
+02:10:19.008818 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:10:19.020628 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."SNAPSHOTS"."SCD_SILVER_AIRPORTS"
+02:10:20.140117 [info ]: Downloaded AIRSTATS.DEV.silver_airport_comments (schema)
+02:10:20.220277 [info ]: Started building task graph
+02:10:20.220336 [info ]: Finished building task graph [  0.00s]
+02:10:20.220407 [info ]: Started rendering (7 nodes)
+02:10:20.220416 [info ]: Started model DEV.src_runways
+02:10:20.220422 [debug]: Started rendering model DEV.src_runways
+02:10:20.220433 [info ]: Started model DEV.src_airports
+02:10:20.220437 [debug]: Started rendering model DEV.src_airports
+02:10:20.220441 [info ]: Started model DEV.src_airport_comments
+02:10:20.220444 [debug]: Started rendering model DEV.src_airport_comments
+02:10:20.220449 [info ]: Finished downloading schemas [  1.57s]
+02:10:20.221681 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+02:10:20.221725 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+02:10:20.221735 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+02:10:20.221745 [info ]: Started analyzing (7 nodes)
+02:10:20.221749 [debug]: Started analyzing model DEV.src_airport_comments
+02:10:20.221757 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+02:10:20.221765 [debug]: Started analyzing model DEV.src_runways
+02:10:20.221769 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+02:10:20.221786 [debug]: Started analyzing model DEV.src_airports
+02:10:20.221817 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+02:10:20.222832 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+02:10:20.222841 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+02:10:20.222849 [info ]: Started model DEV.silver_airport_comments
+02:10:20.222854 [debug]: Started rendering model DEV.silver_airport_comments
+02:10:20.223012 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+02:10:20.223020 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+02:10:20.223025 [info ]: Started model DEV.silver_airports
+02:10:20.223029 [debug]: Started rendering model DEV.silver_airports
+02:10:20.223043 [info ]:  Succeeded [  0.00s] model DEV.src_runways (view)
+02:10:20.223051 [debug]: Finished analyzing [  0.00s] model DEV.src_runways [success]
+02:10:20.223058 [info ]: Started model DEV.silver_runways
+02:10:20.223061 [debug]: Started rendering model DEV.silver_runways
+02:10:20.223383 [debug]: Compiled SQL for node model.airstats.silver_airports at target/.lsp/compiled/models/silver/silver_airports.sql
+02:10:20.223397 [debug]: Started analyzing model DEV.silver_airports
+02:10:20.223413 [debug]: Finished rendering [  0.00s] model DEV.silver_airports [success]
+02:10:20.223640 [debug]: Compiled SQL for node model.airstats.silver_runways at target/.lsp/compiled/models/silver/silver_runways.sql
+02:10:20.223658 [debug]: Started analyzing model DEV.silver_runways
+02:10:20.223676 [debug]: Finished rendering [  0.00s] model DEV.silver_runways [success]
+02:10:20.223829 [info ]:  Succeeded [-------] model DEV.silver_airports (view)
+02:10:20.223835 [debug]: Finished analyzing [  0.00s] model DEV.silver_airports [success]
+02:10:20.223846 [debug]: Compiled SQL for node model.airstats.silver_airport_comments at target/.lsp/compiled/models/silver/silver_airport_comments.sql
+02:10:20.223954 [info ]: Started snapshot snapshots.scd_silver_airports
+02:10:20.223959 [debug]: Started rendering snapshot snapshots.scd_silver_airports
+02:10:20.223966 [debug]: Finished rendering [  0.00s] model DEV.silver_airport_comments [success]
+02:10:20.223970 [debug]: Started analyzing model DEV.silver_airport_comments
+02:10:20.224507 [info ]:  Succeeded [-------] model DEV.silver_runways (view)
+02:10:20.224514 [debug]: Finished analyzing [  0.00s] model DEV.silver_runways [success]
+02:10:20.225921 [debug]: Compiled SQL for node snapshot.airstats.scd_silver_airports at target/.lsp/compiled/snapshots/scd_silver_airports.sql
+02:10:20.225937 [debug]: Started analyzing snapshot snapshots.scd_silver_airports
+02:10:20.225947 [debug]: Finished rendering [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:10:20.225951 [info ]: Finished rendering [  0.01s] (7 nodes, 0 skipped, 0 errors)
+02:10:20.226716 [info ]:  Succeeded [  0.00s] snapshot snapshots.scd_silver_airports (table)
+02:10:20.226722 [debug]: Finished analyzing [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:10:20.231872 [info ]:  Succeeded [  0.01s] model DEV.silver_airport_comments (incremental)
+02:10:20.231879 [debug]: Finished analyzing [  0.01s] model DEV.silver_airport_comments [success]
+02:10:20.231882 [info ]: Finished analyzing [  0.01s] (7 nodes, 0 skipped, 0 errors)
+02:10:20.233606 [info ]: Cached model count updated: 6 models (accurate)
+02:15:03.683621 [info ]: Started loading project
+02:15:03.683997 [info ]: Loading profiles.yml
+02:15:03.685604 [info ]: Started loading project
+02:15:03.685698 [info ]: Loading profiles.yml
+02:15:03.685721 [info ]: Finished loading project [  0.00s]
+02:15:03.779988 [debug]:    Started loading packages
+02:15:03.780354 [debug]:     Loaded [  0.00s] packages
+02:15:03.780743 [info ]: Started parsing
+02:15:03.790012 [info ]: Finished loading project [  0.10s]
+02:15:03.790236 [debug]: Finished parsing models/sources.yml [  0.00s]
+02:15:03.790776 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:15:03.791198 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:15:03.791377 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:15:03.791507 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:15:03.791725 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:15:03.791842 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:15:03.792626 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:15:03.793140 [info ]: Finished parsing [  0.01s]
+02:15:03.793248 [info ]: Cached model count updated: 6 models (estimate)
+02:15:03.793254 [info ]: Cached model count updated: 6 models (accurate)
+02:15:03.793267 [info ]: Started scheduling
+02:15:03.793308 [info ]: Finished scheduling [  0.00s]
+02:15:03.793312 [debug]: Compilation - 7 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.silver_airports", "model.airstats.silver_runways", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways", "snapshot.airstats.scd_silver_airports"}
+02:15:03.793318 [info ]: Started scheduling
+02:15:03.793339 [info ]: Finished scheduling [  0.00s]
+02:15:03.793359 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_airports") and interval: None
+02:15:03.793370 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+02:15:03.793378 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+02:15:03.793384 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+02:15:03.793585 [debug]:    Started downloading relations (1 items)
+02:15:05.189701 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:15:06.190460 [debug]:     Failed [  2.40s] downloading relations (error: Adapter operation was cancelled)
+02:15:06.190540 [info ]: Started downloading schemas
+02:15:06.672006 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:15:07.160801 [info ]: Waiting for lease on 'target' directory
+02:15:07.271517 [info ]: Started loading project
+02:15:07.272205 [info ]: Loading profiles.yml
+02:15:07.382819 [debug]:    Started loading packages
+02:15:07.383239 [debug]:     Loaded [  0.00s] packages
+02:15:07.383634 [info ]: Started parsing
+02:15:07.392233 [info ]: Finished loading project [  0.12s]
+02:15:07.392432 [debug]: Finished parsing models/sources.yml [  0.00s]
+02:15:07.393152 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:15:07.393503 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:15:07.393659 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:15:07.393790 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:15:07.393998 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:15:07.394100 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:15:07.394907 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:15:07.395412 [info ]: Finished parsing [  0.01s]
+02:15:07.395514 [info ]: Cached model count updated: 6 models (estimate)
+02:15:07.395520 [info ]: Cached model count updated: 6 models (accurate)
+02:15:07.395532 [info ]: Started scheduling
+02:15:07.395570 [info ]: Finished scheduling [  0.00s]
+02:15:07.395575 [debug]: Compilation - 7 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.silver_airports", "model.airstats.silver_runways", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways", "snapshot.airstats.scd_silver_airports"}
+02:15:07.395581 [info ]: Started scheduling
+02:15:07.395603 [info ]: Finished scheduling [  0.00s]
+02:15:07.395623 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_airports") and interval: None
+02:15:07.395634 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+02:15:07.395641 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+02:15:07.395648 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+02:15:07.395853 [debug]:    Started downloading relations (1 items)
+02:15:07.741875 [info ]: Finished downloading schemas [  1.55s]
+02:15:08.759186 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:15:08.855923 [debug]:   Finished [  1.46s] downloading relations (1 items)
+02:15:08.855954 [info ]: Started downloading schemas
+02:15:09.350172 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:15:09.450483 [info ]: Downloaded AIRSTATS.DEV.silver_airport_comments (schema)
+02:15:09.528203 [info ]: Started building task graph
+02:15:09.528259 [info ]: Finished building task graph [  0.00s]
+02:15:09.528326 [info ]: Started rendering (7 nodes)
+02:15:09.528334 [info ]: Started model DEV.src_runways
+02:15:09.528339 [debug]: Started rendering model DEV.src_runways
+02:15:09.528352 [info ]: Started model DEV.src_airports
+02:15:09.528355 [debug]: Started rendering model DEV.src_airports
+02:15:09.528359 [info ]: Started model DEV.src_airport_comments
+02:15:09.528362 [debug]: Started rendering model DEV.src_airport_comments
+02:15:09.528368 [info ]: Finished downloading schemas [  0.67s]
+02:15:09.529129 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+02:15:09.529130 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+02:15:09.529126 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+02:15:09.529160 [info ]: Started analyzing (7 nodes)
+02:15:09.529164 [debug]: Started analyzing model DEV.src_runways
+02:15:09.529164 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+02:15:09.529171 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+02:15:09.529176 [debug]: Started analyzing model DEV.src_airports
+02:15:09.529181 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+02:15:09.529186 [debug]: Started analyzing model DEV.src_airport_comments
+02:15:09.530554 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+02:15:09.530562 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+02:15:09.530568 [info ]: Started model DEV.silver_airport_comments
+02:15:09.530572 [debug]: Started rendering model DEV.silver_airport_comments
+02:15:09.530685 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+02:15:09.530695 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+02:15:09.530702 [info ]: Started model DEV.silver_airports
+02:15:09.530706 [debug]: Started rendering model DEV.silver_airports
+02:15:09.530714 [info ]:  Succeeded [  0.00s] model DEV.src_runways (view)
+02:15:09.530719 [debug]: Finished analyzing [  0.00s] model DEV.src_runways [success]
+02:15:09.530723 [info ]: Started model DEV.silver_runways
+02:15:09.530726 [debug]: Started rendering model DEV.silver_runways
+02:15:09.531154 [debug]: Compiled SQL for node model.airstats.silver_runways at target/.lsp/compiled/models/silver/silver_runways.sql
+02:15:09.531169 [debug]: Started analyzing model DEV.silver_runways
+02:15:09.531195 [debug]: Finished rendering [  0.00s] model DEV.silver_runways [success]
+02:15:09.531210 [debug]: Compiled SQL for node model.airstats.silver_airport_comments at target/.lsp/compiled/models/silver/silver_airport_comments.sql
+02:15:09.531238 [debug]: Started analyzing model DEV.silver_airport_comments
+02:15:09.531252 [debug]: Finished rendering [  0.00s] model DEV.silver_airport_comments [success]
+02:15:09.531255 [debug]: Compiled SQL for node model.airstats.silver_airports at target/.lsp/compiled/models/silver/silver_airports.sql
+02:15:09.531292 [debug]: Finished rendering [  0.00s] model DEV.silver_airports [success]
+02:15:09.531311 [debug]: Started analyzing model DEV.silver_airports
+02:15:09.531790 [info ]:  Succeeded [-------] model DEV.silver_airports (view)
+02:15:09.531798 [debug]: Finished analyzing [  0.00s] model DEV.silver_airports [success]
+02:15:09.531807 [info ]: Started snapshot snapshots.scd_silver_airports
+02:15:09.531812 [debug]: Started rendering snapshot snapshots.scd_silver_airports
+02:15:09.532043 [info ]:  Succeeded [-------] model DEV.silver_runways (view)
+02:15:09.532049 [debug]: Finished analyzing [  0.00s] model DEV.silver_runways [success]
+02:15:09.532586 [debug]: Compiled SQL for node snapshot.airstats.scd_silver_airports at target/.lsp/compiled/snapshots/scd_silver_airports.sql
+02:15:09.532607 [debug]: Started analyzing snapshot snapshots.scd_silver_airports
+02:15:09.532614 [debug]: Finished rendering [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:15:09.532619 [info ]: Finished rendering [  0.00s] (7 nodes, 0 skipped, 0 errors)
+02:15:09.532816 [info ]:  Succeeded [  0.00s] model DEV.silver_airport_comments (incremental)
+02:15:09.532823 [debug]: Finished analyzing [  0.00s] model DEV.silver_airport_comments [success]
+02:15:09.533051 [info ]:  Succeeded [-------] snapshot snapshots.scd_silver_airports (table)
+02:15:09.533057 [debug]: Finished analyzing [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:15:09.533060 [info ]: Finished analyzing [  0.00s] (7 nodes, 0 skipped, 0 errors)
+02:15:09.534834 [info ]: Cached model count updated: 6 models (accurate)
+02:15:10.409919 [info ]: Started loading project
+02:15:10.410459 [info ]: Loading profiles.yml
+02:15:10.415487 [info ]: Started parsing
+02:15:10.432187 [info ]: Finished loading project [  0.02s]
+02:15:10.433529 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:15:10.434685 [info ]: Finished parsing [  0.02s]
+02:15:10.435645 [info ]: Cached model count updated: 6 models (estimate)
+02:15:10.435663 [info ]: Cached model count updated: 6 models (accurate)
+02:15:10.435692 [info ]: Started scheduling
+02:15:10.435733 [info ]: Finished scheduling [  0.00s]
+02:15:10.435740 [debug]: Compilation - 0 nodes selected: {}
+02:15:10.435754 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:15:10.435762 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:15:10.493040 [info ]: Started building task graph
+02:15:10.493052 [info ]: Finished building task graph [  0.00s]
+02:15:10.494508 [info ]: Cached model count updated: 6 models (accurate)
+02:15:14.057485 [info ]: Started loading project
+02:15:14.058000 [info ]: Loading profiles.yml
+02:15:14.060760 [info ]: Started loading project
+02:15:14.061009 [info ]: Loading profiles.yml
+02:15:14.061047 [info ]: Finished loading project [  0.00s]
+02:15:14.163205 [debug]:    Started loading packages
+02:15:14.163564 [debug]:     Loaded [  0.00s] packages
+02:15:14.163954 [info ]: Started parsing
+02:15:14.172616 [info ]: Finished loading project [  0.11s]
+02:15:14.172827 [debug]: Finished parsing models/sources.yml [  0.00s]
+02:15:14.173505 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:15:14.173618 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:15:14.174006 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:15:14.174144 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:15:14.174259 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:15:14.174444 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:15:14.174540 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:15:14.175337 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:15:14.175839 [info ]: Finished parsing [  0.01s]
+02:15:14.175945 [info ]: Cached model count updated: 6 models (estimate)
+02:15:14.175950 [info ]: Cached model count updated: 6 models (accurate)
+02:15:14.175963 [info ]: Started scheduling
+02:15:14.176005 [info ]: Finished scheduling [  0.00s]
+02:15:14.176009 [debug]: Compilation - 8 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.silver_airports", "model.airstats.silver_runways", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways", "snapshot.airstats.scd_silver_airports", "snapshot.airstats.scd_silver_runways"}
+02:15:14.176016 [info ]: Started scheduling
+02:15:14.176040 [info ]: Finished scheduling [  0.00s]
+02:15:14.176062 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_airports") and interval: None
+02:15:14.176077 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_runways") and interval: None
+02:15:14.176089 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+02:15:14.176097 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+02:15:14.176103 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+02:15:14.176318 [debug]:    Started downloading relations (1 items)
+02:15:14.554322 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:15:14.626429 [debug]:   Finished [  0.45s] downloading relations (1 items)
+02:15:14.626493 [info ]: Started downloading schemas
+02:15:15.062686 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."SNAPSHOTS"."SCD_SILVER_RUNWAYS"
+02:15:15.070491 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:15:16.181542 [info ]: Downloaded AIRSTATS.DEV.silver_airport_comments (schema)
+02:15:16.261478 [info ]: Started building task graph
+02:15:16.261541 [info ]: Finished building task graph [  0.00s]
+02:15:16.261619 [info ]: Started rendering (8 nodes)
+02:15:16.261627 [info ]: Started model DEV.src_runways
+02:15:16.261632 [debug]: Started rendering model DEV.src_runways
+02:15:16.261645 [info ]: Started model DEV.src_airports
+02:15:16.261648 [debug]: Started rendering model DEV.src_airports
+02:15:16.261652 [info ]: Started model DEV.src_airport_comments
+02:15:16.261655 [debug]: Started rendering model DEV.src_airport_comments
+02:15:16.261660 [info ]: Finished downloading schemas [  1.64s]
+02:15:16.262920 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+02:15:16.262921 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+02:15:16.262949 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+02:15:16.262957 [info ]: Started analyzing (8 nodes)
+02:15:16.262959 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+02:15:16.262961 [debug]: Started analyzing model DEV.src_airport_comments
+02:15:16.262969 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+02:15:16.262975 [debug]: Started analyzing model DEV.src_runways
+02:15:16.262980 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+02:15:16.262984 [debug]: Started analyzing model DEV.src_airports
+02:15:16.264003 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+02:15:16.264011 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+02:15:16.264018 [info ]: Started model DEV.silver_airport_comments
+02:15:16.264021 [debug]: Started rendering model DEV.silver_airport_comments
+02:15:16.264165 [info ]:  Succeeded [  0.00s] model DEV.src_runways (view)
+02:15:16.264170 [debug]: Finished analyzing [  0.00s] model DEV.src_runways [success]
+02:15:16.264175 [info ]: Started model DEV.silver_runways
+02:15:16.264178 [debug]: Started rendering model DEV.silver_runways
+02:15:16.264216 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+02:15:16.264222 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+02:15:16.264229 [info ]: Started model DEV.silver_airports
+02:15:16.264233 [debug]: Started rendering model DEV.silver_airports
+02:15:16.264696 [debug]: Compiled SQL for node model.airstats.silver_runways at target/.lsp/compiled/models/silver/silver_runways.sql
+02:15:16.264716 [debug]: Started analyzing model DEV.silver_runways
+02:15:16.264728 [debug]: Compiled SQL for node model.airstats.silver_airport_comments at target/.lsp/compiled/models/silver/silver_airport_comments.sql
+02:15:16.264745 [debug]: Started analyzing model DEV.silver_airport_comments
+02:15:16.264737 [debug]: Finished rendering [  0.00s] model DEV.silver_runways [success]
+02:15:16.264755 [debug]: Finished rendering [  0.00s] model DEV.silver_airport_comments [success]
+02:15:16.264802 [debug]: Compiled SQL for node model.airstats.silver_airports at target/.lsp/compiled/models/silver/silver_airports.sql
+02:15:16.264815 [debug]: Started analyzing model DEV.silver_airports
+02:15:16.264829 [debug]: Finished rendering [  0.00s] model DEV.silver_airports [success]
+02:15:16.265187 [info ]:  Succeeded [-------] model DEV.silver_airports (view)
+02:15:16.265193 [debug]: Finished analyzing [  0.00s] model DEV.silver_airports [success]
+02:15:16.265200 [info ]: Started snapshot snapshots.scd_silver_airports
+02:15:16.265203 [debug]: Started rendering snapshot snapshots.scd_silver_airports
+02:15:16.265609 [info ]:  Succeeded [-------] model DEV.silver_runways (view)
+02:15:16.265618 [debug]: Finished analyzing [  0.00s] model DEV.silver_runways [success]
+02:15:16.265627 [info ]: Started snapshot snapshots.scd_silver_runways
+02:15:16.265631 [debug]: Started rendering snapshot snapshots.scd_silver_runways
+02:15:16.266012 [debug]: Compiled SQL for node snapshot.airstats.scd_silver_airports at target/.lsp/compiled/snapshots/scd_silver_airports.sql
+02:15:16.266031 [debug]: Started analyzing snapshot snapshots.scd_silver_airports
+02:15:16.266042 [debug]: Finished rendering [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:15:16.266372 [debug]: Compiled SQL for node snapshot.airstats.scd_silver_runways at target/.lsp/compiled/snapshots/scd_silver_runways.sql
+02:15:16.266386 [debug]: Started analyzing snapshot snapshots.scd_silver_runways
+02:15:16.266390 [debug]: Finished rendering [  0.00s] snapshot snapshots.scd_silver_runways [success]
+02:15:16.266395 [info ]: Finished rendering [  0.00s] (8 nodes, 0 skipped, 0 errors)
+02:15:16.266394 [info ]:  Succeeded [  0.00s] model DEV.silver_airport_comments (incremental)
+02:15:16.266400 [debug]: Finished analyzing [  0.00s] model DEV.silver_airport_comments [success]
+02:15:16.266484 [info ]:  Succeeded [-------] snapshot snapshots.scd_silver_airports (table)
+02:15:16.266490 [debug]: Finished analyzing [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:15:16.266762 [info ]:  Succeeded [-------] snapshot snapshots.scd_silver_runways (table)
+02:15:16.266769 [debug]: Finished analyzing [  0.00s] snapshot snapshots.scd_silver_runways [success]
+02:15:16.266772 [info ]: Finished analyzing [  0.00s] (8 nodes, 0 skipped, 0 errors)
+02:15:16.268845 [info ]: Cached model count updated: 6 models (accurate)
+02:15:19.589551 [info ]: Started loading project
+02:15:19.590141 [info ]: Loading profiles.yml
+02:15:19.595180 [info ]: Started parsing
+02:15:19.613259 [info ]: Finished loading project [  0.02s]
+02:15:19.614943 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:15:19.615195 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:15:19.616572 [info ]: Finished parsing [  0.02s]
+02:15:19.617507 [info ]: Cached model count updated: 6 models (estimate)
+02:15:19.617519 [info ]: Cached model count updated: 6 models (accurate)
+02:15:19.617546 [info ]: Started scheduling
+02:15:19.617583 [info ]: Finished scheduling [  0.00s]
+02:15:19.617590 [debug]: Compilation - 0 nodes selected: {}
+02:15:19.617605 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:15:19.617613 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:15:19.618288 [warn ]: dbt1014: Failed to download snapshot schema for 'snapshot.airstats.scd_silver_runways'. Setting 'static_analysis' to off. Skipping analysis for : [Snowflake] 002003 (42S02): SQL compilation error:
+Table 'AIRSTATS.SNAPSHOTS.SCD_SILVER_RUNWAYS' does not exist or not authorized. (SQLSTATE: 42S02, Vendor code: 2003)
+02:15:19.676078 [info ]: Started building task graph
+02:15:19.676102 [info ]: Finished building task graph [  0.00s]
+02:15:19.677754 [info ]: Cached model count updated: 6 models (accurate)
+02:16:24.494344 [info ]: Started loading project
+02:16:24.494755 [info ]: Loading profiles.yml
+02:16:24.496811 [info ]: Started loading project
+02:16:24.496941 [info ]: Loading profiles.yml
+02:16:24.496972 [info ]: Finished loading project [  0.00s]
+02:16:24.594414 [debug]:    Started loading packages
+02:16:24.594844 [debug]:     Loaded [  0.00s] packages
+02:16:24.595233 [info ]: Started parsing
+02:16:24.604413 [info ]: Finished loading project [  0.11s]
+02:16:24.604913 [debug]: Finished parsing models/sources.yml [  0.00s]
+02:16:24.604955 [debug]: Finished parsing models/tests.yml [  0.00s]
+02:16:24.605542 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:16:24.605709 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:16:24.606100 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:16:24.606258 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:16:24.606409 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:16:24.606615 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:16:24.606750 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:16:24.607542 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:16:24.608070 [info ]: Finished parsing [  0.01s]
+02:16:24.608214 [info ]: Cached model count updated: 6 models (estimate)
+02:16:24.608223 [info ]: Cached model count updated: 6 models (accurate)
+02:16:24.608258 [info ]: Started scheduling
+02:16:24.608304 [info ]: Finished scheduling [  0.00s]
+02:16:24.608310 [debug]: Compilation - 8 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.silver_airports", "model.airstats.silver_runways", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways", "snapshot.airstats.scd_silver_airports", "snapshot.airstats.scd_silver_runways"}
+02:16:24.608318 [info ]: Started scheduling
+02:16:24.608343 [info ]: Finished scheduling [  0.00s]
+02:16:24.608368 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_runways") and interval: None
+02:16:24.608384 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_airports") and interval: None
+02:16:24.608392 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+02:16:24.608401 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+02:16:24.608408 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+02:16:24.608677 [debug]:    Started downloading relations (1 items)
+02:16:25.088679 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:16:25.341157 [debug]:   Finished [  0.73s] downloading relations (1 items)
+02:16:25.341220 [info ]: Started downloading schemas
+02:16:25.778999 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:16:25.988140 [info ]: Downloaded AIRSTATS.DEV.silver_airport_comments (schema)
+02:16:26.070891 [info ]: Started building task graph
+02:16:26.070953 [info ]: Finished building task graph [  0.00s]
+02:16:26.071029 [info ]: Started rendering (8 nodes)
+02:16:26.071037 [info ]: Started model DEV.src_runways
+02:16:26.071043 [debug]: Started rendering model DEV.src_runways
+02:16:26.071058 [info ]: Started model DEV.src_airports
+02:16:26.071061 [debug]: Started rendering model DEV.src_airports
+02:16:26.071065 [info ]: Started model DEV.src_airport_comments
+02:16:26.071068 [debug]: Started rendering model DEV.src_airport_comments
+02:16:26.071074 [info ]: Finished downloading schemas [  0.73s]
+02:16:26.071888 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+02:16:26.071917 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+02:16:26.071930 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+02:16:26.071997 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+02:16:26.072016 [debug]: Finished rendering [  0.00s] model DEV.src_airports [no-op]
+02:16:26.072022 [info ]:  Succeeded [-------] model DEV.src_runways (view)
+02:16:26.072027 [info ]:   Finished [  0.00s] model DEV.src_airports (view)
+02:16:26.072031 [info ]:   Finished [  0.00s] model DEV.src_airport_comments (view)
+02:16:26.072043 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [no-op]
+02:16:26.072046 [info ]: Finished rendering [  0.00s] (8 nodes, 0 skipped, 0 errors)
+02:16:26.074670 [info ]: Waiting for lease on 'target' directory
+02:16:26.593993 [info ]: Started loading project
+02:16:26.594686 [info ]: Loading profiles.yml
+02:16:26.704158 [debug]:    Started loading packages
+02:16:26.704564 [debug]:     Loaded [  0.00s] packages
+02:16:26.704962 [info ]: Started parsing
+02:16:26.713492 [info ]: Finished loading project [  0.12s]
+02:16:26.713682 [debug]: Finished parsing models/sources.yml [  0.00s]
+02:16:26.713714 [debug]: Finished parsing models/tests.yml [  0.00s]
+02:16:26.714392 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:16:26.714508 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:16:26.714888 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:16:26.715036 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:16:26.715153 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:16:26.715362 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:16:26.715473 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:16:26.716251 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:16:26.716778 [info ]: Finished parsing [  0.01s]
+02:16:26.716882 [info ]: Cached model count updated: 6 models (estimate)
+02:16:26.716890 [info ]: Cached model count updated: 6 models (accurate)
+02:16:26.716903 [info ]: Started scheduling
+02:16:26.716950 [info ]: Finished scheduling [  0.00s]
+02:16:26.716954 [debug]: Compilation - 8 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.silver_airports", "model.airstats.silver_runways", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways", "snapshot.airstats.scd_silver_airports", "snapshot.airstats.scd_silver_runways"}
+02:16:26.716961 [info ]: Started scheduling
+02:16:26.716985 [info ]: Finished scheduling [  0.00s]
+02:16:26.717008 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_airports") and interval: None
+02:16:26.717019 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_runways") and interval: None
+02:16:26.717025 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+02:16:26.717036 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+02:16:26.717042 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+02:16:26.717259 [debug]:    Started downloading relations (1 items)
+02:16:27.160176 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:16:27.227123 [debug]:   Finished [  0.51s] downloading relations (1 items)
+02:16:27.227162 [info ]: Started downloading schemas
+02:16:27.558281 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:16:27.708044 [info ]: Downloaded AIRSTATS.DEV.silver_airport_comments (schema)
+02:16:27.768324 [info ]: Started building task graph
+02:16:27.768385 [info ]: Finished building task graph [  0.00s]
+02:16:27.768459 [info ]: Started rendering (8 nodes)
+02:16:27.768467 [info ]: Started model DEV.src_runways
+02:16:27.768473 [debug]: Started rendering model DEV.src_runways
+02:16:27.768487 [info ]: Started model DEV.src_airports
+02:16:27.768491 [debug]: Started rendering model DEV.src_airports
+02:16:27.768494 [info ]: Started model DEV.src_airport_comments
+02:16:27.768497 [debug]: Started rendering model DEV.src_airport_comments
+02:16:27.768504 [info ]: Finished downloading schemas [  0.54s]
+02:16:27.769186 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+02:16:27.769214 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+02:16:27.769219 [info ]: Started analyzing (8 nodes)
+02:16:27.769222 [debug]: Started analyzing model DEV.src_runways
+02:16:27.769229 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+02:16:27.769231 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+02:16:27.769237 [debug]: Started analyzing model DEV.src_airports
+02:16:27.769244 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+02:16:27.769253 [debug]: Started analyzing model DEV.src_airport_comments
+02:16:27.769259 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+02:16:27.770295 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+02:16:27.770304 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+02:16:27.770311 [info ]: Started model DEV.silver_airport_comments
+02:16:27.770316 [debug]: Started rendering model DEV.silver_airport_comments
+02:16:27.770400 [info ]:  Succeeded [  0.00s] model DEV.src_runways (view)
+02:16:27.770408 [debug]: Finished analyzing [  0.00s] model DEV.src_runways [success]
+02:16:27.770414 [info ]: Started model DEV.silver_runways
+02:16:27.770419 [debug]: Started rendering model DEV.silver_runways
+02:16:27.770425 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+02:16:27.770429 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+02:16:27.770434 [info ]: Started model DEV.silver_airports
+02:16:27.770437 [debug]: Started rendering model DEV.silver_airports
+02:16:27.770873 [debug]: Compiled SQL for node model.airstats.silver_airports at target/.lsp/compiled/models/silver/silver_airports.sql
+02:16:27.770889 [debug]: Started analyzing model DEV.silver_airports
+02:16:27.770907 [debug]: Finished rendering [  0.00s] model DEV.silver_airports [success]
+02:16:27.770937 [debug]: Compiled SQL for node model.airstats.silver_airport_comments at target/.lsp/compiled/models/silver/silver_airport_comments.sql
+02:16:27.770952 [debug]: Started analyzing model DEV.silver_airport_comments
+02:16:27.770949 [debug]: Compiled SQL for node model.airstats.silver_runways at target/.lsp/compiled/models/silver/silver_runways.sql
+02:16:27.770961 [debug]: Finished rendering [  0.00s] model DEV.silver_airport_comments [success]
+02:16:27.770996 [debug]: Finished rendering [  0.00s] model DEV.silver_runways [success]
+02:16:27.771000 [debug]: Started analyzing model DEV.silver_runways
+02:16:27.771226 [info ]:  Succeeded [-------] model DEV.silver_airports (view)
+02:16:27.771234 [debug]: Finished analyzing [  0.00s] model DEV.silver_airports [success]
+02:16:27.771241 [info ]: Started snapshot snapshots.scd_silver_airports
+02:16:27.771245 [debug]: Started rendering snapshot snapshots.scd_silver_airports
+02:16:27.771853 [debug]: Compiled SQL for node snapshot.airstats.scd_silver_airports at target/.lsp/compiled/snapshots/scd_silver_airports.sql
+02:16:27.771862 [info ]:  Succeeded [-------] model DEV.silver_runways (view)
+02:16:27.771875 [debug]: Finished analyzing [  0.00s] model DEV.silver_runways [success]
+02:16:27.771883 [info ]: Started snapshot snapshots.scd_silver_runways
+02:16:27.771887 [debug]: Started rendering snapshot snapshots.scd_silver_runways
+02:16:27.771896 [debug]: Finished rendering [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:16:27.771901 [debug]: Started analyzing snapshot snapshots.scd_silver_airports
+02:16:27.772382 [info ]:  Succeeded [  0.00s] model DEV.silver_airport_comments (incremental)
+02:16:27.772388 [debug]: Finished analyzing [  0.00s] model DEV.silver_airport_comments [success]
+02:16:27.772392 [info ]:  Succeeded [-------] snapshot snapshots.scd_silver_airports (table)
+02:16:27.772395 [debug]: Finished analyzing [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:16:27.772480 [debug]: Compiled SQL for node snapshot.airstats.scd_silver_runways at target/.lsp/compiled/snapshots/scd_silver_runways.sql
+02:16:27.772493 [debug]: Started analyzing snapshot snapshots.scd_silver_runways
+02:16:27.772495 [debug]: Finished rendering [  0.00s] snapshot snapshots.scd_silver_runways [success]
+02:16:27.772499 [info ]: Finished rendering [  0.00s] (8 nodes, 0 skipped, 0 errors)
+02:16:27.772857 [info ]:  Succeeded [-------] snapshot snapshots.scd_silver_runways (table)
+02:16:27.772862 [debug]: Finished analyzing [  0.00s] snapshot snapshots.scd_silver_runways [success]
+02:16:27.772864 [info ]: Finished analyzing [  0.00s] (8 nodes, 0 skipped, 0 errors)
+02:16:27.774468 [info ]: Cached model count updated: 6 models (accurate)
+02:16:36.295988 [info ]: Started loading project
+02:16:36.296375 [info ]: Loading profiles.yml
+02:16:36.300663 [info ]: Started parsing
+02:16:36.312159 [info ]: Finished loading project [  0.02s]
+02:16:36.312742 [debug]: Finished parsing models/tests.yml [  0.00s]
+02:16:36.314724 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:16:36.314918 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:16:36.315459 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:16:36.315632 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:16:36.315786 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:16:36.316025 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:16:36.316159 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:16:36.320295 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:16:36.321603 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_comment_body.sql [  0.00s]
+02:16:36.321755 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_comment_id.sql [  0.00s]
+02:16:36.321889 [debug]: Finished parsing target/generic_tests/unique_silver_airport_comments_comment_id.sql [  0.00s]
+02:16:36.322031 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_member_nickname.sql [  0.00s]
+02:16:36.322165 [debug]: Finished parsing target/generic_tests/not_null_silver_airports_airport_ident.sql [  0.00s]
+02:16:36.322290 [debug]: Finished parsing target/generic_tests/unique_silver_airports_airport_ident.sql [  0.00s]
+02:16:36.322418 [debug]: Finished parsing target/generic_tests/not_null_silver_runways_runway_id.sql [  0.00s]
+02:16:36.322543 [debug]: Finished parsing target/generic_tests/unique_silver_runways_runway_id.sql [  0.00s]
+02:16:36.322676 [debug]: Finished parsing target/generic_tests/not_null_src_airport_comments_comment_id.sql [  0.00s]
+02:16:36.322801 [debug]: Finished parsing target/generic_tests/unique_src_airport_comments_comment_id.sql [  0.00s]
+02:16:36.322927 [debug]: Finished parsing target/generic_tests/not_null_src_airports_airport_ident.sql [  0.00s]
+02:16:36.323049 [debug]: Finished parsing target/generic_tests/unique_src_airports_airport_ident.sql [  0.00s]
+02:16:36.323179 [debug]: Finished parsing target/generic_tests/not_null_src_runways_airport_ident.sql [  0.00s]
+02:16:36.323307 [debug]: Finished parsing target/generic_tests/not_null_src_runways_runway_id.sql [  0.00s]
+02:16:36.325788 [debug]: Finished parsing target/generic_tests/unique_src_runways_runway_id.sql [  0.00s]
+02:16:36.326121 [info ]: Finished parsing [  0.03s]
+02:16:36.326638 [info ]: Cached model count updated: 6 models (estimate)
+02:16:36.326645 [info ]: Cached model count updated: 6 models (accurate)
+02:16:36.326671 [info ]: Started scheduling
+02:16:36.326909 [info ]: Finished scheduling [  0.00s]
+02:16:36.326914 [debug]: Compilation - 0 nodes selected: {}
+02:16:36.326920 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:16:36.326925 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:16:36.376398 [info ]: Started building task graph
+02:16:36.376417 [info ]: Finished building task graph [  0.00s]
+02:16:36.378065 [info ]: Cached model count updated: 6 models (accurate)
+02:16:41.788916 [info ]: Started loading project
+02:16:41.789341 [info ]: Loading profiles.yml
+02:16:41.791815 [info ]: Started parsing
+02:16:41.801724 [info ]: Finished loading project [  0.01s]
+02:16:41.802824 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:16:41.803120 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:16:41.804339 [info ]: Finished parsing [  0.01s]
+02:16:41.805075 [info ]: Cached model count updated: 6 models (estimate)
+02:16:41.805083 [info ]: Cached model count updated: 6 models (accurate)
+02:16:41.805109 [info ]: Started scheduling
+02:16:41.805141 [info ]: Finished scheduling [  0.00s]
+02:16:41.805146 [debug]: Compilation - 0 nodes selected: {}
+02:16:41.805154 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:16:41.805159 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:16:41.862783 [info ]: Started building task graph
+02:16:41.862801 [info ]: Finished building task graph [  0.00s]
+02:16:41.864463 [info ]: Cached model count updated: 6 models (accurate)
+02:39:27.012965 [info ]: Started loading project
+02:39:27.013365 [info ]: Loading profiles.yml
+02:39:27.014861 [info ]: Started loading project
+02:39:27.014937 [info ]: Loading profiles.yml
+02:39:27.014948 [info ]: Finished loading project [  0.00s]
+02:39:27.102363 [debug]:    Started loading packages
+02:39:27.102813 [debug]:     Loaded [  0.00s] packages
+02:39:27.103300 [info ]: Started parsing
+02:39:27.114085 [info ]: Finished loading project [  0.10s]
+02:39:27.114549 [debug]: Finished parsing models/sources.yml [  0.00s]
+02:39:27.114679 [debug]: Finished parsing models/tests.yml [  0.00s]
+02:39:27.115714 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:39:27.115881 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:39:27.116357 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:39:27.116529 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:39:27.116714 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:39:27.116937 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:39:27.117084 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:39:27.119289 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:39:27.119865 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_comment_body.sql [  0.00s]
+02:39:27.119993 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_comment_id.sql [  0.00s]
+02:39:27.120112 [debug]: Finished parsing target/generic_tests/unique_silver_airport_comments_comment_id.sql [  0.00s]
+02:39:27.120231 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_member_nickname.sql [  0.00s]
+02:39:27.120400 [debug]: Finished parsing target/generic_tests/not_null_silver_airports_airport_ident.sql [  0.00s]
+02:39:27.120529 [debug]: Finished parsing target/generic_tests/unique_silver_airports_airport_ident.sql [  0.00s]
+02:39:27.120655 [debug]: Finished parsing target/generic_tests/not_null_silver_runways_runway_id.sql [  0.00s]
+02:39:27.120770 [debug]: Finished parsing target/generic_tests/unique_silver_runways_runway_id.sql [  0.00s]
+02:39:27.120892 [debug]: Finished parsing target/generic_tests/not_null_src_airport_comments_comment_id.sql [  0.00s]
+02:39:27.121005 [debug]: Finished parsing target/generic_tests/unique_src_airport_comments_comment_id.sql [  0.00s]
+02:39:27.121121 [debug]: Finished parsing target/generic_tests/not_null_src_airports_airport_ident.sql [  0.00s]
+02:39:27.121232 [debug]: Finished parsing target/generic_tests/unique_src_airports_airport_ident.sql [  0.00s]
+02:39:27.121350 [debug]: Finished parsing target/generic_tests/not_null_src_runways_airport_ident.sql [  0.00s]
+02:39:27.121486 [debug]: Finished parsing target/generic_tests/not_null_src_runways_runway_id.sql [  0.00s]
+02:39:27.123241 [debug]: Finished parsing target/generic_tests/unique_src_runways_runway_id.sql [  0.00s]
+02:39:27.123495 [info ]: Finished parsing [  0.02s]
+02:39:27.123659 [info ]: Cached model count updated: 6 models (estimate)
+02:39:27.123666 [info ]: Cached model count updated: 6 models (accurate)
+02:39:27.123701 [info ]: Started scheduling
+02:39:27.124085 [info ]: Finished scheduling [  0.00s]
+02:39:27.124090 [debug]: Compilation - 8 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.silver_airports", "model.airstats.silver_runways", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways", "snapshot.airstats.scd_silver_airports", "snapshot.airstats.scd_silver_runways"}
+02:39:27.124100 [info ]: Started scheduling
+02:39:27.124131 [info ]: Finished scheduling [  0.00s]
+02:39:27.124209 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_airports") and interval: None
+02:39:27.124225 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_runways") and interval: None
+02:39:27.124232 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+02:39:27.124240 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+02:39:27.124247 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+02:39:27.124524 [debug]:    Started downloading relations (1 items)
+02:39:27.675419 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:39:28.020936 [debug]:   Finished [  0.90s] downloading relations (1 items)
+02:39:28.021030 [info ]: Started downloading schemas
+02:39:28.371883 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:39:28.545922 [info ]: Downloaded AIRSTATS.DEV.silver_airport_comments (schema)
+02:39:28.619813 [info ]: Started building task graph
+02:39:28.619912 [info ]: Finished building task graph [  0.00s]
+02:39:28.620022 [info ]: Started rendering (8 nodes)
+02:39:28.620036 [info ]: Started model DEV.src_runways
+02:39:28.620046 [debug]: Started rendering model DEV.src_runways
+02:39:28.620059 [info ]: Started model DEV.src_airports
+02:39:28.620062 [debug]: Started rendering model DEV.src_airports
+02:39:28.620066 [info ]: Started model DEV.src_airport_comments
+02:39:28.620069 [debug]: Started rendering model DEV.src_airport_comments
+02:39:28.620072 [info ]: Finished downloading schemas [  0.60s]
+02:39:28.621052 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+02:39:28.621061 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+02:39:28.621091 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+02:39:28.621101 [info ]: Started analyzing (8 nodes)
+02:39:28.621110 [debug]: Started analyzing model DEV.src_airport_comments
+02:39:28.621117 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+02:39:28.621123 [debug]: Started analyzing model DEV.src_runways
+02:39:28.621123 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+02:39:28.621187 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+02:39:28.621196 [debug]: Started analyzing model DEV.src_airports
+02:39:28.623059 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+02:39:28.623070 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+02:39:28.623077 [info ]: Started model DEV.silver_airport_comments
+02:39:28.623082 [debug]: Started rendering model DEV.silver_airport_comments
+02:39:28.623189 [info ]:  Succeeded [  0.00s] model DEV.src_runways (view)
+02:39:28.623197 [debug]: Finished analyzing [  0.00s] model DEV.src_runways [success]
+02:39:28.623204 [info ]: Started model DEV.silver_runways
+02:39:28.623209 [debug]: Started rendering model DEV.silver_runways
+02:39:28.623264 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+02:39:28.623272 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+02:39:28.623278 [info ]: Started model DEV.silver_airports
+02:39:28.623281 [debug]: Started rendering model DEV.silver_airports
+02:39:28.623781 [debug]: Compiled SQL for node model.airstats.silver_runways at target/.lsp/compiled/models/silver/silver_runways.sql
+02:39:28.623793 [debug]: Compiled SQL for node model.airstats.silver_airports at target/.lsp/compiled/models/silver/silver_airports.sql
+02:39:28.623796 [debug]: Started analyzing model DEV.silver_runways
+02:39:28.623802 [debug]: Finished rendering [  0.00s] model DEV.silver_runways [success]
+02:39:28.623804 [debug]: Finished rendering [  0.00s] model DEV.silver_airports [success]
+02:39:28.623808 [debug]: Started analyzing model DEV.silver_airports
+02:39:28.624245 [info ]:  Succeeded [-------] model DEV.silver_airports (view)
+02:39:28.624250 [debug]: Finished analyzing [  0.00s] model DEV.silver_airports [success]
+02:39:28.624258 [info ]: Started snapshot snapshots.scd_silver_airports
+02:39:28.624262 [debug]: Started rendering snapshot snapshots.scd_silver_airports
+02:39:28.624662 [debug]: Compiled SQL for node snapshot.airstats.scd_silver_airports at target/.lsp/compiled/snapshots/scd_silver_airports.sql
+02:39:28.624673 [info ]:  Succeeded [-------] model DEV.silver_runways (view)
+02:39:28.624678 [debug]: Finished analyzing [  0.00s] model DEV.silver_runways [success]
+02:39:28.624685 [info ]: Started snapshot snapshots.scd_silver_runways
+02:39:28.624688 [debug]: Started rendering snapshot snapshots.scd_silver_runways
+02:39:28.624693 [debug]: Finished rendering [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:39:28.624694 [debug]: Compiled SQL for node model.airstats.silver_airport_comments at target/.lsp/compiled/models/silver/silver_airport_comments.sql
+02:39:28.624697 [debug]: Started analyzing snapshot snapshots.scd_silver_airports
+02:39:28.624702 [debug]: Started analyzing model DEV.silver_airport_comments
+02:39:28.624703 [debug]: Finished rendering [  0.00s] model DEV.silver_airport_comments [success]
+02:39:28.625072 [debug]: Compiled SQL for node snapshot.airstats.scd_silver_runways at target/.lsp/compiled/snapshots/scd_silver_runways.sql
+02:39:28.625085 [debug]: Started analyzing snapshot snapshots.scd_silver_runways
+02:39:28.625104 [debug]: Finished rendering [  0.00s] snapshot snapshots.scd_silver_runways [success]
+02:39:28.625109 [info ]: Finished rendering [  0.01s] (8 nodes, 0 skipped, 0 errors)
+02:39:28.625404 [info ]:  Succeeded [-------] snapshot snapshots.scd_silver_airports (table)
+02:39:28.625410 [debug]: Finished analyzing [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:39:28.625707 [info ]:  Succeeded [-------] snapshot snapshots.scd_silver_runways (table)
+02:39:28.625712 [debug]: Finished analyzing [  0.00s] snapshot snapshots.scd_silver_runways [success]
+02:39:28.625917 [info ]:  Succeeded [  0.00s] model DEV.silver_airport_comments (incremental)
+02:39:28.625924 [debug]: Finished analyzing [  0.00s] model DEV.silver_airport_comments [success]
+02:39:28.625926 [info ]: Finished analyzing [  0.00s] (8 nodes, 0 skipped, 0 errors)
+02:39:28.628606 [info ]: Cached model count updated: 6 models (accurate)
+02:39:30.537715 [info ]: Started loading project
+02:39:30.538211 [info ]: Loading profiles.yml
+02:39:30.541402 [info ]: Started parsing
+02:39:30.554071 [info ]: Finished loading project [  0.02s]
+02:39:30.555403 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:39:30.555654 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:39:30.556922 [info ]: Finished parsing [  0.02s]
+02:39:30.557771 [info ]: Cached model count updated: 6 models (estimate)
+02:39:30.557780 [info ]: Cached model count updated: 6 models (accurate)
+02:39:30.557824 [info ]: Started scheduling
+02:39:30.557881 [info ]: Finished scheduling [  0.00s]
+02:39:30.557888 [debug]: Compilation - 0 nodes selected: {}
+02:39:30.557900 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:39:30.557912 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:39:30.611924 [info ]: Started building task graph
+02:39:30.611937 [info ]: Finished building task graph [  0.00s]
+02:39:30.613408 [info ]: Cached model count updated: 6 models (accurate)
+02:39:55.350229 [info ]: Started loading project
+02:39:55.350654 [info ]: Loading profiles.yml
+02:39:55.352723 [info ]: Started loading project
+02:39:55.352839 [info ]: Loading profiles.yml
+02:39:55.352865 [info ]: Finished loading project [  0.00s]
+02:39:55.454181 [debug]:    Started loading packages
+02:39:55.454602 [debug]:     Loaded [  0.00s] packages
+02:39:55.454991 [info ]: Started parsing
+02:39:55.463723 [info ]: Finished loading project [  0.11s]
+02:39:55.463936 [debug]: Finished parsing models/sources.yml [  0.00s]
+02:39:55.464049 [debug]: Finished parsing models/tests.yml [  0.00s]
+02:39:55.464794 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:39:55.464956 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:39:55.465366 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:39:55.465562 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:39:55.465699 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:39:55.465925 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:39:55.466047 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:39:55.468103 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:39:55.468660 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_comment_body.sql [  0.00s]
+02:39:55.468785 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_comment_id.sql [  0.00s]
+02:39:55.468938 [debug]: Finished parsing target/generic_tests/unique_silver_airport_comments_comment_id.sql [  0.00s]
+02:39:55.469128 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_member_nickname.sql [  0.00s]
+02:39:55.469293 [debug]: Finished parsing target/generic_tests/not_null_silver_airports_airport_ident.sql [  0.00s]
+02:39:55.469416 [debug]: Finished parsing target/generic_tests/unique_silver_airports_airport_ident.sql [  0.00s]
+02:39:55.469559 [debug]: Finished parsing target/generic_tests/not_null_silver_runways_runway_id.sql [  0.00s]
+02:39:55.469679 [debug]: Finished parsing target/generic_tests/unique_silver_runways_runway_id.sql [  0.00s]
+02:39:55.469801 [debug]: Finished parsing target/generic_tests/not_null_src_airport_comments_comment_id.sql [  0.00s]
+02:39:55.469912 [debug]: Finished parsing target/generic_tests/unique_src_airport_comments_comment_id.sql [  0.00s]
+02:39:55.470025 [debug]: Finished parsing target/generic_tests/not_null_src_airports_airport_ident.sql [  0.00s]
+02:39:55.470131 [debug]: Finished parsing target/generic_tests/unique_src_airports_airport_ident.sql [  0.00s]
+02:39:55.470245 [debug]: Finished parsing target/generic_tests/not_null_src_runways_airport_ident.sql [  0.00s]
+02:39:55.470358 [debug]: Finished parsing target/generic_tests/not_null_src_runways_runway_id.sql [  0.00s]
+02:39:55.471980 [debug]: Finished parsing target/generic_tests/unique_src_runways_runway_id.sql [  0.00s]
+02:39:55.472161 [info ]: Finished parsing [  0.02s]
+02:39:55.472270 [info ]: Cached model count updated: 6 models (estimate)
+02:39:55.472275 [info ]: Cached model count updated: 6 models (accurate)
+02:39:55.472298 [info ]: Started scheduling
+02:39:55.472351 [info ]: Finished scheduling [  0.00s]
+02:39:55.472356 [debug]: Compilation - 8 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.silver_airports", "model.airstats.silver_runways", "model.airstats.src_airport_comments", "model.airstats.src_airports", "model.airstats.src_runways", "snapshot.airstats.scd_silver_airports", "snapshot.airstats.scd_silver_runways"}
+02:39:55.472362 [info ]: Started scheduling
+02:39:55.472394 [info ]: Finished scheduling [  0.00s]
+02:39:55.472416 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_runways") and interval: None
+02:39:55.472426 [debug]: Initializing schema store with entry: Selected("snapshot.airstats.scd_silver_airports") and interval: None
+02:39:55.472433 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORTS" }) and interval: None
+02:39:55.472442 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "RUNWAYS" }) and interval: None
+02:39:55.472448 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "AIRSTATS", schema: "RAW", table: "AIRPORT_COMMENTS" }) and interval: None
+02:39:55.472659 [debug]:    Started downloading relations (1 items)
+02:39:55.848288 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "AIRSTATS"."DEV" LIMIT 10000
+02:39:56.024815 [debug]:   Finished [  0.55s] downloading relations (1 items)
+02:39:56.024882 [info ]: Started downloading schemas
+02:39:56.345623 [debug]: Query executed on node unknown:
+describe table "AIRSTATS"."DEV"."SILVER_AIRPORT_COMMENTS"
+02:39:56.517539 [info ]: Downloaded AIRSTATS.DEV.silver_airport_comments (schema)
+02:39:56.597563 [info ]: Started building task graph
+02:39:56.597626 [info ]: Finished building task graph [  0.00s]
+02:39:56.597704 [info ]: Started rendering (8 nodes)
+02:39:56.597712 [info ]: Started model DEV.src_runways
+02:39:56.597718 [debug]: Started rendering model DEV.src_runways
+02:39:56.597732 [info ]: Started model DEV.src_airports
+02:39:56.597736 [debug]: Started rendering model DEV.src_airports
+02:39:56.597740 [info ]: Started model DEV.src_airport_comments
+02:39:56.597743 [debug]: Started rendering model DEV.src_airport_comments
+02:39:56.597748 [info ]: Finished downloading schemas [  0.57s]
+02:39:56.598429 [debug]: Compiled SQL for node model.airstats.src_runways at target/.lsp/compiled/models/bronze/src_runways.sql
+02:39:56.598430 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+02:39:56.598462 [info ]: Started analyzing (8 nodes)
+02:39:56.598468 [debug]: Started analyzing model DEV.src_runways
+02:39:56.598468 [debug]: Finished rendering [  0.00s] model DEV.src_runways [success]
+02:39:56.598470 [debug]: Compiled SQL for node model.airstats.src_airports at target/.lsp/compiled/models/bronze/src_airports.sql
+02:39:56.598477 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+02:39:56.598482 [debug]: Started analyzing model DEV.src_airport_comments
+02:39:56.598487 [debug]: Finished rendering [  0.00s] model DEV.src_airports [success]
+02:39:56.598490 [debug]: Started analyzing model DEV.src_airports
+02:39:56.599555 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+02:39:56.599565 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+02:39:56.599573 [info ]: Started model DEV.silver_airport_comments
+02:39:56.599578 [debug]: Started rendering model DEV.silver_airport_comments
+02:39:56.599640 [info ]:  Succeeded [  0.00s] model DEV.src_airports (view)
+02:39:56.599648 [debug]: Finished analyzing [  0.00s] model DEV.src_airports [success]
+02:39:56.599653 [info ]: Started model DEV.silver_airports
+02:39:56.599657 [debug]: Started rendering model DEV.silver_airports
+02:39:56.599679 [info ]:  Succeeded [  0.00s] model DEV.src_runways (view)
+02:39:56.599688 [debug]: Finished analyzing [  0.00s] model DEV.src_runways [success]
+02:39:56.599696 [info ]: Started model DEV.silver_runways
+02:39:56.599702 [debug]: Started rendering model DEV.silver_runways
+02:39:56.600039 [debug]: Compiled SQL for node model.airstats.silver_runways at target/.lsp/compiled/models/silver/silver_runways.sql
+02:39:56.600053 [debug]: Started analyzing model DEV.silver_runways
+02:39:56.600057 [debug]: Finished rendering [  0.00s] model DEV.silver_runways [success]
+02:39:56.600121 [debug]: Compiled SQL for node model.airstats.silver_airports at target/.lsp/compiled/models/silver/silver_airports.sql
+02:39:56.600136 [debug]: Started analyzing model DEV.silver_airports
+02:39:56.600156 [debug]: Finished rendering [  0.00s] model DEV.silver_airports [success]
+02:39:56.600192 [debug]: Compiled SQL for node model.airstats.silver_airport_comments at target/.lsp/compiled/models/silver/silver_airport_comments.sql
+02:39:56.600207 [debug]: Started analyzing model DEV.silver_airport_comments
+02:39:56.600227 [debug]: Finished rendering [  0.00s] model DEV.silver_airport_comments [success]
+02:39:56.600480 [info ]:  Succeeded [-------] model DEV.silver_airports (view)
+02:39:56.600486 [debug]: Finished analyzing [  0.00s] model DEV.silver_airports [success]
+02:39:56.600494 [info ]: Started snapshot snapshots.scd_silver_airports
+02:39:56.600498 [debug]: Started rendering snapshot snapshots.scd_silver_airports
+02:39:56.600828 [debug]: Compiled SQL for node snapshot.airstats.scd_silver_airports at target/.lsp/compiled/snapshots/scd_silver_airports.sql
+02:39:56.600842 [debug]: Started analyzing snapshot snapshots.scd_silver_airports
+02:39:56.600846 [debug]: Finished rendering [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:39:56.600900 [info ]:  Succeeded [-------] model DEV.silver_runways (view)
+02:39:56.600908 [debug]: Finished analyzing [  0.00s] model DEV.silver_runways [success]
+02:39:56.600916 [info ]: Started snapshot snapshots.scd_silver_runways
+02:39:56.600919 [debug]: Started rendering snapshot snapshots.scd_silver_runways
+02:39:56.601272 [info ]:  Succeeded [-------] snapshot snapshots.scd_silver_airports (table)
+02:39:56.601277 [debug]: Finished analyzing [  0.00s] snapshot snapshots.scd_silver_airports [success]
+02:39:56.601372 [info ]:  Succeeded [  0.00s] model DEV.silver_airport_comments (incremental)
+02:39:56.601378 [debug]: Finished analyzing [  0.00s] model DEV.silver_airport_comments [success]
+02:39:56.601393 [debug]: Compiled SQL for node snapshot.airstats.scd_silver_runways at target/.lsp/compiled/snapshots/scd_silver_runways.sql
+02:39:56.601406 [debug]: Started analyzing snapshot snapshots.scd_silver_runways
+02:39:56.601407 [debug]: Finished rendering [  0.00s] snapshot snapshots.scd_silver_runways [success]
+02:39:56.601413 [info ]: Finished rendering [  0.00s] (8 nodes, 0 skipped, 0 errors)
+02:39:56.601809 [info ]:  Succeeded [-------] snapshot snapshots.scd_silver_runways (table)
+02:39:56.601815 [debug]: Finished analyzing [  0.00s] snapshot snapshots.scd_silver_runways [success]
+02:39:56.601817 [info ]: Finished analyzing [  0.00s] (8 nodes, 0 skipped, 0 errors)
+02:39:56.604059 [info ]: Cached model count updated: 6 models (accurate)
+02:40:02.453576 [info ]: Started loading project
+02:40:02.454099 [info ]: Loading profiles.yml
+02:40:02.457596 [info ]: Started parsing
+02:40:02.471616 [info ]: Finished loading project [  0.02s]
+02:40:02.473248 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:40:02.473526 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:40:02.474907 [info ]: Finished parsing [  0.02s]
+02:40:02.475937 [info ]: Cached model count updated: 6 models (estimate)
+02:40:02.475948 [info ]: Cached model count updated: 6 models (accurate)
+02:40:02.475993 [info ]: Started scheduling
+02:40:02.476051 [info ]: Finished scheduling [  0.00s]
+02:40:02.476060 [debug]: Compilation - 0 nodes selected: {}
+02:40:02.476074 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:40:02.476082 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:40:02.531700 [info ]: Started building task graph
+02:40:02.531719 [info ]: Finished building task graph [  0.00s]
+02:40:02.533277 [info ]: Cached model count updated: 6 models (accurate)
+02:43:40.048752 [info ]: Started loading project
+02:43:40.049232 [info ]: Loading profiles.yml
+02:43:40.051585 [info ]: Started parsing
+02:43:40.062657 [info ]: Finished loading project [  0.01s]
+02:43:40.062972 [debug]: Finished parsing models/tests.yml [  0.00s]
+02:43:40.063807 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:43:40.063989 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:43:40.064665 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:43:40.064874 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:43:40.065094 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:43:40.065383 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:43:40.065531 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:43:40.068536 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:43:40.069298 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_comment_body.sql [  0.00s]
+02:43:40.069481 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_comment_id.sql [  0.00s]
+02:43:40.069645 [debug]: Finished parsing target/generic_tests/unique_silver_airport_comments_comment_id.sql [  0.00s]
+02:43:40.069800 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_member_nickname.sql [  0.00s]
+02:43:40.069954 [debug]: Finished parsing target/generic_tests/not_null_silver_airports_airport_ident.sql [  0.00s]
+02:43:40.070099 [debug]: Finished parsing target/generic_tests/unique_silver_airports_airport_ident.sql [  0.00s]
+02:43:40.070260 [debug]: Finished parsing target/generic_tests/not_null_silver_runways_runway_id.sql [  0.00s]
+02:43:40.070410 [debug]: Finished parsing target/generic_tests/unique_silver_runways_runway_id.sql [  0.00s]
+02:43:40.070566 [debug]: Finished parsing target/generic_tests/not_null_src_airport_comments_comment_id.sql [  0.00s]
+02:43:40.070709 [debug]: Finished parsing target/generic_tests/unique_src_airport_comments_comment_id.sql [  0.00s]
+02:43:40.070859 [debug]: Finished parsing target/generic_tests/not_null_src_airports_airport_ident.sql [  0.00s]
+02:43:40.070999 [debug]: Finished parsing target/generic_tests/unique_src_airports_airport_ident.sql [  0.00s]
+02:43:40.071149 [debug]: Finished parsing target/generic_tests/not_null_src_runways_airport_ident.sql [  0.00s]
+02:43:40.071297 [debug]: Finished parsing target/generic_tests/not_null_src_runways_runway_id.sql [  0.00s]
+02:43:40.073679 [debug]: Finished parsing target/generic_tests/unique_src_runways_runway_id.sql [  0.00s]
+02:43:40.073855 [info ]: Finished parsing [  0.02s]
+02:43:40.074442 [info ]: Cached model count updated: 6 models (estimate)
+02:43:40.074450 [info ]: Cached model count updated: 6 models (accurate)
+02:43:40.074483 [info ]: Started scheduling
+02:43:40.074569 [info ]: Finished scheduling [  0.00s]
+02:43:40.074575 [debug]: Compilation - 2 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.src_airport_comments"}
+02:43:40.126278 [info ]: Started building task graph
+02:43:40.126311 [info ]: Finished building task graph [  0.00s]
+02:43:40.126367 [info ]: Started rendering (2 nodes)
+02:43:40.126375 [info ]: Started model DEV.src_airport_comments
+02:43:40.126382 [debug]: Started rendering model DEV.src_airport_comments
+02:43:40.126934 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+02:43:40.126959 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+02:43:40.126968 [info ]: Started analyzing (2 nodes)
+02:43:40.126970 [debug]: Started analyzing model DEV.src_airport_comments
+02:43:40.128159 [info ]:  Succeeded [  0.00s] model DEV.src_airport_comments (view)
+02:43:40.128166 [debug]: Finished analyzing [  0.00s] model DEV.src_airport_comments [success]
+02:43:40.128173 [info ]: Started model DEV.silver_airport_comments
+02:43:40.128177 [debug]: Started rendering model DEV.silver_airport_comments
+02:43:40.129072 [debug]: Compiled SQL for node model.airstats.silver_airport_comments at target/.lsp/compiled/models/silver/silver_airport_comments.sql
+02:43:40.129088 [debug]: Started analyzing model DEV.silver_airport_comments
+02:43:40.129095 [debug]: Finished rendering [  0.00s] model DEV.silver_airport_comments [success]
+02:43:40.129101 [info ]: Finished rendering [  0.00s] (2 nodes, 0 skipped, 0 errors)
+02:43:40.130212 [info ]:  Succeeded [  0.00s] model DEV.silver_airport_comments (incremental)
+02:43:40.130222 [debug]: Finished analyzing [  0.00s] model DEV.silver_airport_comments [success]
+02:43:40.130224 [info ]: Finished analyzing [  0.00s] (2 nodes, 0 skipped, 0 errors)
+02:43:40.131869 [info ]: Cached model count updated: 6 models (accurate)
+02:43:49.396381 [info ]: Started loading project
+02:43:49.396942 [info ]: Loading profiles.yml
+02:43:49.400711 [info ]: Started parsing
+02:43:49.415173 [info ]: Finished loading project [  0.02s]
+02:43:49.416695 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:43:49.416961 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:43:49.418330 [info ]: Finished parsing [  0.02s]
+02:43:49.419225 [info ]: Cached model count updated: 6 models (estimate)
+02:43:49.419237 [info ]: Cached model count updated: 6 models (accurate)
+02:43:49.419279 [info ]: Started scheduling
+02:43:49.419334 [info ]: Finished scheduling [  0.00s]
+02:43:49.419341 [debug]: Compilation - 0 nodes selected: {}
+02:43:49.419354 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:43:49.419361 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:43:49.476138 [info ]: Started building task graph
+02:43:49.476157 [info ]: Finished building task graph [  0.00s]
+02:43:49.477953 [info ]: Cached model count updated: 6 models (accurate)
+02:46:23.982950 [info ]: Started loading project
+02:46:23.983170 [info ]: Loading profiles.yml
+02:46:23.984974 [info ]: Started parsing
+02:46:23.994833 [info ]: Finished loading project [  0.01s]
+02:46:23.995310 [debug]: Finished parsing models/tests.yml [  0.00s]
+02:46:23.996272 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:46:23.996463 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:46:23.997292 [debug]: Finished parsing models/bronze/src_airport_comments.sql [  0.00s]
+02:46:23.997590 [debug]: Finished parsing models/bronze/src_airports.sql [  0.00s]
+02:46:23.997822 [debug]: Finished parsing models/bronze/src_runways.sql [  0.00s]
+02:46:23.998124 [debug]: Finished parsing models/silver/silver_airport_comments.sql [  0.00s]
+02:46:23.998341 [debug]: Finished parsing models/silver/silver_airports.sql [  0.00s]
+02:46:24.000747 [debug]: Finished parsing models/silver/silver_runways.sql [  0.00s]
+02:46:24.001398 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_comment_body.sql [  0.00s]
+02:46:24.001541 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_comment_id.sql [  0.00s]
+02:46:24.001826 [debug]: Finished parsing target/generic_tests/unique_silver_airport_comments_comment_id.sql [  0.00s]
+02:46:24.002003 [debug]: Finished parsing target/generic_tests/not_null_silver_airport_comments_member_nickname.sql [  0.00s]
+02:46:24.002138 [debug]: Finished parsing target/generic_tests/not_null_silver_airports_airport_ident.sql [  0.00s]
+02:46:24.002265 [debug]: Finished parsing target/generic_tests/unique_silver_airports_airport_ident.sql [  0.00s]
+02:46:24.002406 [debug]: Finished parsing target/generic_tests/not_null_silver_runways_runway_id.sql [  0.00s]
+02:46:24.002532 [debug]: Finished parsing target/generic_tests/unique_silver_runways_runway_id.sql [  0.00s]
+02:46:24.002658 [debug]: Finished parsing target/generic_tests/not_null_src_airport_comments_comment_id.sql [  0.00s]
+02:46:24.002774 [debug]: Finished parsing target/generic_tests/unique_src_airport_comments_comment_id.sql [  0.00s]
+02:46:24.002899 [debug]: Finished parsing target/generic_tests/not_null_src_airports_airport_ident.sql [  0.00s]
+02:46:24.003024 [debug]: Finished parsing target/generic_tests/unique_src_airports_airport_ident.sql [  0.00s]
+02:46:24.003149 [debug]: Finished parsing target/generic_tests/not_null_src_runways_airport_ident.sql [  0.00s]
+02:46:24.003267 [debug]: Finished parsing target/generic_tests/not_null_src_runways_runway_id.sql [  0.00s]
+02:46:24.005030 [debug]: Finished parsing target/generic_tests/unique_src_runways_runway_id.sql [  0.00s]
+02:46:24.005227 [info ]: Finished parsing [  0.02s]
+02:46:24.005712 [info ]: Cached model count updated: 6 models (estimate)
+02:46:24.005718 [info ]: Cached model count updated: 6 models (accurate)
+02:46:24.005746 [info ]: Started scheduling
+02:46:24.005810 [info ]: Finished scheduling [  0.00s]
+02:46:24.005815 [debug]: Compilation - 2 nodes selected: {"model.airstats.silver_airport_comments", "model.airstats.src_airport_comments"}
+02:46:24.054959 [info ]: Started building task graph
+02:46:24.054999 [info ]: Finished building task graph [  0.00s]
+02:46:24.055058 [info ]: Started rendering (2 nodes)
+02:46:24.055066 [info ]: Started model DEV.src_airport_comments
+02:46:24.055072 [debug]: Started rendering model DEV.src_airport_comments
+02:46:24.055571 [debug]: Compiled SQL for node model.airstats.src_airport_comments at target/.lsp/compiled/models/bronze/src_airport_comments.sql
+02:46:24.055598 [debug]: Finished rendering [  0.00s] model DEV.src_airport_comments [success]
+02:46:24.055601 [info ]: Started analyzing (2 nodes)
+02:46:24.055607 [debug]: Started analyzing model DEV.src_airport_comments
+02:46:24.062844 [info ]:  Succeeded [  0.01s] model DEV.src_airport_comments (view)
+02:46:24.062870 [debug]: Finished analyzing [  0.01s] model DEV.src_airport_comments [success]
+02:46:24.062888 [info ]: Started model DEV.silver_airport_comments
+02:46:24.062898 [debug]: Started rendering model DEV.silver_airport_comments
+02:46:24.063451 [debug]: Compiled SQL for node model.airstats.silver_airport_comments at target/.lsp/compiled/models/silver/silver_airport_comments.sql
+02:46:24.063499 [debug]: Started analyzing model DEV.silver_airport_comments
+02:46:24.063503 [debug]: Finished rendering [  0.00s] model DEV.silver_airport_comments [success]
+02:46:24.063516 [info ]: Finished rendering [  0.01s] (2 nodes, 0 skipped, 0 errors)
+02:46:24.064841 [info ]:  Succeeded [  0.00s] model DEV.silver_airport_comments (incremental)
+02:46:24.064853 [debug]: Finished analyzing [  0.00s] model DEV.silver_airport_comments [success]
+02:46:24.064856 [info ]: Finished analyzing [  0.01s] (2 nodes, 0 skipped, 0 errors)
+02:46:24.066645 [info ]: Cached model count updated: 6 models (accurate)
+02:46:31.440405 [info ]: Started loading project
+02:46:31.441002 [info ]: Loading profiles.yml
+02:46:31.444617 [info ]: Started parsing
+02:46:31.458690 [info ]: Finished loading project [  0.02s]
+02:46:31.460217 [debug]: Finished parsing target/snapshots/scd_silver_airports.sql [  0.00s]
+02:46:31.460488 [debug]: Finished parsing target/snapshots/scd_silver_runways.sql [  0.00s]
+02:46:31.461863 [info ]: Finished parsing [  0.02s]
+02:46:31.462804 [info ]: Cached model count updated: 6 models (estimate)
+02:46:31.462814 [info ]: Cached model count updated: 6 models (accurate)
+02:46:31.462860 [info ]: Started scheduling
+02:46:31.462909 [info ]: Finished scheduling [  0.00s]
+02:46:31.462916 [debug]: Compilation - 0 nodes selected: {}
+02:46:31.462930 [warn ]: dbt1600: The selection criterion '' does not match any enabled nodes
+02:46:31.462937 [warn ]: dbt1601: Nothing to do. Try checking your model configs and model specification args
+02:46:31.519082 [info ]: Started building task graph
+02:46:31.519099 [info ]: Finished building task graph [  0.00s]
+02:46:31.520761 [info ]: Cached model count updated: 6 models (accurate)

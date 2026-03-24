@@ -1,0 +1,13 @@
+name: airstats
+version: '1.0'
+config-version: 2
+
+profile: airstats
+
+model-paths: ["models"]
+
+models:
+  airstats:
+    +materialized: view
+    
+    
