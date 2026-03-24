@@ -2,3 +2,4 @@ target/
 logs/
 profiles.yml
 dbt_internal_packages/
+.user.yml
